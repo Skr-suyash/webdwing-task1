@@ -1,0 +1,2985 @@
+{
+    "status": true,
+    "data": [
+        {
+            "sl_no": 1,
+            "title": "Learn the basics",
+            "ques": [
+                {
+                    "id": "srinpttpt",
+                    "tags": "Microsoft,Google,Netflix,Meta,Amazon",
+                    "title": "User Input / Output",
+                    "yt_link": "https://youtu.be/EAR7De6Goz4?t=250",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/find-character-case_58513?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "dttyps",
+                    "tags": "",
+                    "title": "Data Types",
+                    "yt_link": "https://youtu.be/EAR7De6Goz4?t=755",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/data-type_8357232?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "iflssttmnts",
+                    "tags": "",
+                    "title": "If Else statements",
+                    "yt_link": "https://youtu.be/EAR7De6Goz4?t=1259",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/if-else-decision-making_8357235?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "switchsttmnt",
+                    "tags": "",
+                    "title": "Switch Statement",
+                    "yt_link": "https://youtu.be/EAR7De6Goz4",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/switch-case-statement_8357244?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "whtrrrysstrings",
+                    "tags": "",
+                    "title": "What are arrays, strings?",
+                    "yt_link": "https://youtu.be/EAR7De6Goz4?t=2415",
+                    "p1_link": null,
+                    "p2_link": null
+                },
+                {
+                    "id": "frlps",
+                    "tags": "",
+                    "title": "For loops",
+                    "yt_link": "https://youtu.be/EAR7De6Goz4?t=3096",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/nth-fibonacci-number_74156?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "whillps",
+                    "tags": "",
+                    "title": "While loops",
+                    "yt_link": "https://youtu.be/EAR7De6Goz4?t=3459",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/sum-of-even-odd_624650?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "fnctinspssbyrfrncndvl",
+                    "tags": "",
+                    "title": "Functions (Pass by Reference and Value)",
+                    "yt_link": "https://youtu.be/EAR7De6Goz4?t=3677",
+                    "p1_link": "https://www.codingninjas.com/codestudio/problems/fa-1-ece_4606261?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "timcmplxitylrnbsicsndthnnlysinnxtstps",
+                    "tags": "",
+                    "title": "Time Complexity [Learn Basics, and then analyse in next Steps]",
+                    "yt_link": "https://youtu.be/FPu9Uld7W-E",
+                    "p1_link": null,
+                    "p2_link": null
+                },
+                {
+                    "id": "null-ques-i",
+                    "tags": "",
+                    "title": null,
+                    "yt_link": null,
+                    "p1_link": null,
+                    "p2_link": null
+                },
+                {
+                    "id": "pttrns",
+                    "tags": "",
+                    "title": "Patterns",
+                    "yt_link": "https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=3",
+                    "p1_link": null,
+                    "p2_link": null
+                },
+                {
+                    "id": "cstl",
+                    "tags": "",
+                    "title": "C++ STL",
+                    "yt_link": "https://www.youtube.com/watch?v=RRVYpIET_RU",
+                    "p1_link": null,
+                    "p2_link": null
+                },
+                {
+                    "id": "jvcllctins",
+                    "tags": "",
+                    "title": "Java Collections",
+                    "yt_link": null,
+                    "p1_link": null,
+                    "p2_link": null
+                },
+                {
+                    "id": "cntdigits",
+                    "tags": "",
+                    "title": "Count Digits",
+                    "yt_link": "https://youtu.be/1xNbjMdbjug",
+                    "p1_link": "https://www.codingninjas.com/codestudio/problems/count-digits_8416387?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "rvrsnmbr",
+                    "tags": "",
+                    "title": "Reverse a Number",
+                    "yt_link": "https://youtu.be/1xNbjMdbjug?t=930",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/reverse-bits_2181102?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/reverse-integer/"
+                },
+                {
+                    "id": "chckplindrm",
+                    "tags": "",
+                    "title": "Check Palindrome",
+                    "yt_link": "https://youtu.be/1xNbjMdbjug?t=1230",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/palindrome-number_624662?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/palindrome-number/"
+                },
+                {
+                    "id": "gcdrhcf",
+                    "tags": "",
+                    "title": "GCD Or HCF",
+                    "yt_link": "https://youtu.be/1xNbjMdbjug?t=2684",
+                    "p1_link": "https://www.codingninjas.com/codestudio/problems/hcf-and-lcm_840448?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "rmstrngnmbrs",
+                    "tags": "",
+                    "title": "Armstrong Numbers",
+                    "yt_link": "https://youtu.be/1xNbjMdbjug?t=1418",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/check-armstrong_589?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/armstrong-number/"
+                },
+                {
+                    "id": "printlldivisrs",
+                    "tags": "",
+                    "title": "Print all Divisors",
+                    "yt_link": "https://youtu.be/1xNbjMdbjug?t=1580",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/sum-of-all-divisors_8360720?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "chckfrprim",
+                    "tags": "",
+                    "title": "Check for Prime",
+                    "yt_link": "https://youtu.be/1xNbjMdbjug?t=2381",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/check-prime_624934?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "ndrstndrcrsinbyprintsmthingntims",
+                    "tags": "",
+                    "title": "Understand recursion by print something N times",
+                    "yt_link": "https://www.youtube.com/watch?v=yVdKa8dnKiE&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9",
+                    "p1_link": "https://www.codingninjas.com/codestudio/problems/print-1-to-n_628290?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "printnmntimssingrcrsin",
+                    "tags": "",
+                    "title": "Print name N times using recursion",
+                    "yt_link": "https://www.youtube.com/watch?v=un6PLygfXrA&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9&index=2",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/-print-n-times_8380707?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "print1tnsingrcrsin",
+                    "tags": "",
+                    "title": "Print 1 to N using recursion",
+                    "yt_link": "https://www.youtube.com/watch?v=un6PLygfXrA&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9&index=2",
+                    "p1_link": "https://www.codingninjas.com/codestudio/problems/print-1-to-n_628290?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "printnt1singrcrsin",
+                    "tags": "",
+                    "title": "Print N to 1 using recursion",
+                    "yt_link": "https://www.youtube.com/watch?v=un6PLygfXrA&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9&index=2",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/n-to-1-without-loop_8357243?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "smffirstnnmbrs",
+                    "tags": "",
+                    "title": "Sum of first N numbers",
+                    "yt_link": "https://www.youtube.com/watch?v=69ZCDFy-OUo&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9&index=3",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/sum-of-first-n-numbers_8876068?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "fctrilfnnmbrs",
+                    "tags": "",
+                    "title": "Factorial of N numbers",
+                    "yt_link": "https://www.youtube.com/watch?v=69ZCDFy-OUo&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9&index=3",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/factorial-numbers-not-greater-than-n_8365435?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "rvrsnrry",
+                    "tags": "",
+                    "title": "Reverse an array",
+                    "yt_link": "https://www.youtube.com/watch?v=twuC1F6gLI8&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9&index=4",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/reverse-an-array_8365444?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "chckifstringisplindrmrnt",
+                    "tags": "",
+                    "title": "Check if a string is palindrome or not",
+                    "yt_link": "https://www.youtube.com/watch?v=twuC1F6gLI8&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9&index=4",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/check-palindrome-recursive_624386?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/valid-palindrome/"
+                },
+                {
+                    "id": "fibnccinmbr",
+                    "tags": "",
+                    "title": "Fibonacci Number",
+                    "yt_link": "https://www.youtube.com/watch?v=kvRjNm4rVBE&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9&index=5",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/print-fibonacci-series_7421617?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/fibonacci-number/"
+                },
+                {
+                    "id": "hshingthry",
+                    "tags": "",
+                    "title": "Hashing Theory",
+                    "yt_link": "https://www.youtube.com/watch?v=KEs5UyBJ39g",
+                    "p1_link": null,
+                    "p2_link": null
+                },
+                {
+                    "id": "cntingfrqncisfrrylmnts",
+                    "tags": "",
+                    "title": "Counting frequencies of array elements",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/count-frequency-in-a-range_8365446?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "findthhighstlwstfrqncylmnt",
+                    "tags": "",
+                    "title": "Find the highest/lowest frequency element",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/k-most-occurrent-numbers_625382?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/frequency-of-the-most-frequent-element/"
+                }
+            ]
+        },
+        {
+            "sl_no": 2,
+            "title": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+            "ques": [
+                {
+                    "id": "intrdctintlinkdlistlrnbtstrctndhwisndrprsntd",
+                    "tags": "",
+                    "title": "Introduction to LinkedList, learn about struct, and how is node represented",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/introduction-to-linked-list_8144737?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "insrtingndinlinkdlist",
+                    "tags": "",
+                    "title": "Inserting a node in LinkedList",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/insert-node-at-the-beginning_8144739?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "dltingndinlinkdlist",
+                    "tags": "",
+                    "title": "Deleting a node in LinkedList",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/delete-node-of-linked-list_8160463?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/delete-node-in-a-linked-list/"
+                },
+                {
+                    "id": "findthlngthfthlinkdlistlrntrvrsl",
+                    "tags": "",
+                    "title": "Find the length of the linkedlist [learn traversal]",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/count-nodes-of-linked-list_5884?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "srchnlmntinthll",
+                    "tags": "",
+                    "title": "Search an element in the LL",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/search-in-a-linked-list_975381?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "intrdctintdlllrnbtstrctndhwisndrprsntd",
+                    "tags": "",
+                    "title": "Introduction to DLL, learn about struct, and how is node represented",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/introduction-to-doubly-linked-list_8160413?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "insrtndindll",
+                    "tags": "",
+                    "title": "Insert a node in DLL",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/insert-at-end-of-doubly-linked-list_8160464?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "dltndindll",
+                    "tags": "",
+                    "title": "Delete a node in DLL",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/delete-last-node-of-a-doubly-linked-list_8160469?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "rvrsdll",
+                    "tags": "",
+                    "title": "Reverse a DLL",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/reverse-a-doubly-linked-list_1116098?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "middlflinkdlisttrtishrmthd",
+                    "tags": "",
+                    "title": "Middle of a LinkedList [TortoiseHare Method]",
+                    "yt_link": "https://www.youtube.com/watch?v=sGdwSH8RK-o&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=28",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/middle-of-linked-list_973250?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/middle-of-the-linked-list/"
+                },
+                {
+                    "id": "rvrslinkdlistitrtiv",
+                    "tags": "",
+                    "title": "Reverse a LinkedList [Iterative]",
+                    "yt_link": "https://www.youtube.com/watch?v=iRtLEoL-r-g&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=27",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/reverse-linked-list_920513?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/reverse-linked-list/"
+                },
+                {
+                    "id": "rvrsllrcrsiv",
+                    "tags": "",
+                    "title": "Reverse a LL [Recursive]",
+                    "yt_link": "https://www.youtube.com/watch?v=iRtLEoL-r-g&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=27",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/reverse-linked-list_920513?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/reverse-linked-list/"
+                },
+                {
+                    "id": "dtctlpinll",
+                    "tags": "",
+                    "title": "Detect a loop in LL",
+                    "yt_link": "https://www.youtube.com/watch?v=354J83hX7RI&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=34",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/cycle-detection-in-a-singly-linked-list_628974?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/linked-list-cycle/"
+                },
+                {
+                    "id": "findthstrtingpintinll",
+                    "tags": "",
+                    "title": "Find the starting point in LL",
+                    "yt_link": "https://www.youtube.com/watch?v=QfbOhn0WZ88&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=37",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/linked-list-cycle-ii_1112628?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/linked-list-cycle-ii/"
+                },
+                {
+                    "id": "lngthflpinll",
+                    "tags": "",
+                    "title": "Length of Loop in LL",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/find-length-of-loop_8160455?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "chckifllisplindrmrnt",
+                    "tags": "",
+                    "title": "Check if LL is palindrome or not",
+                    "yt_link": "https://www.youtube.com/watch?v=-DtNInqFUXs&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=36",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/check-if-linked-list-is-palindrome_985248?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/palindrome-linked-list/"
+                },
+                {
+                    "id": "sgrrgtddndvnndsinll",
+                    "tags": "",
+                    "title": "Segrregate odd and even nodes in LL",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/segregate-even-and-odd-nodes-in-a-linked-list_1116100?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/odd-even-linked-list/"
+                },
+                {
+                    "id": "rmvnthndfrmthbckfthll",
+                    "tags": "",
+                    "title": "Remove Nth node from the back of the LL",
+                    "yt_link": "https://www.youtube.com/watch?v=Lhu3MsXZy-Q&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=30",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/delete-kth-node-from-end_799912?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/"
+                },
+                {
+                    "id": "dltthmiddlndfll",
+                    "tags": "",
+                    "title": "Delete the middle node of LL",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/delete-middle-node_763267?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/#:~:text=You%20are%20given%20the%20head,than%20or%20equal%20to%20x%20."
+                },
+                {
+                    "id": "srtll",
+                    "tags": "",
+                    "title": "Sort LL",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/sort-linked-list_625193?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/sort-list/"
+                },
+                {
+                    "id": "srtllf0s1snd2sbychnginglinks",
+                    "tags": "",
+                    "title": "Sort a LL of 0's 1's and 2's by changing links",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/sort-linked-list-of-0s-1s-2s_1071937?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "findthintrsctinpintfyll",
+                    "tags": "",
+                    "title": "Find the intersection point of Y LL",
+                    "yt_link": "https://www.youtube.com/watch?v=u4FWXfgS8jw&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=33",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/-intersection-of-two-linked-lists_630457?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/intersection-of-two-linked-lists/"
+                },
+                {
+                    "id": "dd1tnmbrrprsntdbyll",
+                    "tags": "",
+                    "title": "Add 1 to a number represented by LL",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/add-one-to-a-number-represented-as-linked-list_920557?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "dd2nmbrsinll",
+                    "tags": "",
+                    "title": "Add 2 numbers in LL",
+                    "yt_link": "https://www.youtube.com/watch?v=LBVsXSMOIk4&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=32",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/add-two-numbers_1170520?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/add-two-numbers/"
+                },
+                {
+                    "id": "dltllccrrncsfkyindll",
+                    "tags": "",
+                    "title": "Delete all occurrences of a key in DLL",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/delete-all-occurrences-of-a-given-key-in-a-doubly-linked-list_8160461?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "findpirswithgivnsmindll",
+                    "tags": "",
+                    "title": "Find pairs with given sum in DLL",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/find-pairs-with-given-sum-in-doubly-linked-list_1164172?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "rmvdplictsfrmsrtddll",
+                    "tags": "",
+                    "title": "Remove duplicates from sorted DLL",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/remove-duplicates-from-a-sorted-doubly-linked-list_2420283?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "rvrsllingrpfgivnsizk",
+                    "tags": "",
+                    "title": "Reverse LL in group of given size K",
+                    "yt_link": "https://www.youtube.com/watch?v=Of0HPkk3JgI&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=34",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/reverse-list-in-k-groups_983644?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/reverse-nodes-in-k-group/"
+                },
+                {
+                    "id": "rttll",
+                    "tags": "",
+                    "title": "Rotate a LL",
+                    "yt_link": "https://www.youtube.com/watch?v=9VPm6nEbVPA&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=39",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/rotate-linked-list_920454?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/rotate-list/description/"
+                },
+                {
+                    "id": "flttningfll",
+                    "tags": "",
+                    "title": "Flattening of LL",
+                    "yt_link": "https://www.youtube.com/watch?v=ysytSSXpAI0&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=38",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/flatten-a-linked-list_1112655?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "clnlinkdlistwithrndmndnxtpintr",
+                    "tags": "Facebook,Microsoft,Samsung,Amazon,Flipkart,Bloomberg,Oracle,CRED,Meesho,Swiggy,Dream11,InMobi,Oyo,PayTM,Byju's",
+                    "title": "Clone a Linked List with random and next pointer",
+                    "yt_link": "https://www.youtube.com/watch?v=VNf6VynfpdM",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/clone-a-linked-list-with-random-pointers_983604?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/copy-list-with-random-pointer/"
+                }
+            ]
+        },
+        {
+            "sl_no": 3,
+            "title": "Recursion [PatternWise]",
+            "ques": [
+                {
+                    "id": "rcrsivimplmnttinfti",
+                    "tags": "",
+                    "title": "Recursive Implementation of atoi()",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/implement-atoi-function_981270?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/string-to-integer-atoi/"
+                },
+                {
+                    "id": "pwxn",
+                    "tags": "Netflix,Facebook,Samsung,Amazon,Oracle,Google,CRED,Meesho,Swiggy,Dream11,InMobi,Oyo,PayTM",
+                    "title": "Pow(x, n)",
+                    "yt_link": "https://youtu.be/l0YC3876qxg",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/find-x-raised-to-power-n-_626560?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/powx-n/"
+                },
+                {
+                    "id": "cntgdnmbrs",
+                    "tags": "",
+                    "title": "Count Good numbers",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/good-numbers_625508?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/count-good-numbers/"
+                },
+                {
+                    "id": "srtstcksingrcrsin",
+                    "tags": "",
+                    "title": "Sort a stack using recursion",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/codestudio/problems/sort-stack_1229505?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "rvrsstcksingrcrsin",
+                    "tags": "",
+                    "title": "Reverse a stack using recursion",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/reverse-stack-using-recursion_631875?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "gnrtllbinrystrings",
+                    "tags": "",
+                    "title": "Generate all binary strings",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/-binary-strings-with-no-consecutive-1s._893001?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "gnrtprnthsis",
+                    "tags": "",
+                    "title": "Generate Paranthesis",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/generate-all-parenthesis_920445?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/generate-parentheses/"
+                },
+                {
+                    "id": "printllsbsqncspwrst",
+                    "tags": "",
+                    "title": "Print all subsequences/Power Set",
+                    "yt_link": "https://youtu.be/b7AYbpM5YrE",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/print-subsequences_8416366?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/subsets/"
+                },
+                {
+                    "id": "lrnllpttrnsfsbsqncsthry",
+                    "tags": "",
+                    "title": "Learn All Patterns of Subsequences (Theory)",
+                    "yt_link": "https://www.youtube.com/watch?v=eQCS_v3bw0Q&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9&index=7",
+                    "p1_link": "https://www.codingninjas.com/codestudio/problems/more-subsequence_8842355?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "cntllsbsqncswithsmk",
+                    "tags": "",
+                    "title": "Count all subsequences with sum K",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/subarrays-with-sum-‘k'_6922076?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "chckifthrxistssbsqncwithsmk",
+                    "tags": "",
+                    "title": "Check if there exists a subsequence with sum K",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/subset-sum_630213?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "cmbintinsm",
+                    "tags": "",
+                    "title": "Combination Sum",
+                    "yt_link": "https://www.youtube.com/watch?v=OyZFFqQtu98&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=49",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/combination-sum_981296?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/combination-sum/"
+                },
+                {
+                    "id": "cmbintinsmii",
+                    "tags": "",
+                    "title": "Combination Sum-II",
+                    "yt_link": "https://www.youtube.com/watch?v=G1fRTGRxXU8&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=50",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/combination-sum-ii_1112622?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/combination-sum-ii/"
+                },
+                {
+                    "id": "sbstsmi",
+                    "tags": "",
+                    "title": "Subset Sum-I",
+                    "yt_link": "https://www.youtube.com/watch?v=rYkfBRtMJr8&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=52",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/subset-sum_3843086?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "sbstsmii",
+                    "tags": "",
+                    "title": "Subset Sum-II",
+                    "yt_link": "https://www.youtube.com/watch?v=RIn3gOkbhQE&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=53",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/get-all-unique-subsets_624393?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/subsets-ii/"
+                },
+                {
+                    "id": "cmbintinsmiii",
+                    "tags": "",
+                    "title": "Combination Sum - III",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/combination-sum-iii_5038357?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/combination-sum-iii/"
+                },
+                {
+                    "id": "lttrcmbintinsfphnnmbr",
+                    "tags": "",
+                    "title": "Letter Combinations of a Phone number",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/letter-phone_626178?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/"
+                },
+                {
+                    "id": "plindrmprtitining",
+                    "tags": "Oracle,Facebook,Tekion-corp,Adobe,Flipkart,Bloomberg,Netflix,Amazon,Walmart,CRED,Meesho,Swiggy,Dream11,InMobi,Oyo",
+                    "title": "Palindrome Partitioning",
+                    "yt_link": "https://www.youtube.com/watch?v=WBgsABoClE0&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=51",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/palindrome-partitioning_626181?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/palindrome-partitioning/"
+                },
+                {
+                    "id": "wrdsrch",
+                    "tags": "",
+                    "title": "Word Search",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/word-search---l_892986?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/word-search/"
+                },
+                {
+                    "id": "nqn",
+                    "tags": "",
+                    "title": "N Queen",
+                    "yt_link": "https://www.youtube.com/watch?v=i05Ju7AftcM&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=57",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/n-queens_696453?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/n-queens/"
+                },
+                {
+                    "id": "rtinmz",
+                    "tags": "Walmart,Samsung,Netflix,Facebook,Tekion-corp,Google,CRED,Meesho,Swiggy,Dream11,InMobi",
+                    "title": "Rat in a Maze",
+                    "yt_link": "https://www.youtube.com/watch?v=bLGZhJlt4y0&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=60",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/rat-in-a-maze-_8842357?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1"
+                },
+                {
+                    "id": "wrdbrk",
+                    "tags": "",
+                    "title": "Word Break",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/word-break-1_758963?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/word-break/"
+                },
+                {
+                    "id": "mclringprblm",
+                    "tags": "Tekion-corp,Flipkart,Facebook,Oracle,Walmart,Netflix,Adobe,Samsung,Amazon,CRED,Meesho,Swiggy,Dream11,InMobi,Oyo",
+                    "title": "M Coloring Problem",
+                    "yt_link": "https://www.youtube.com/watch?v=wuVwUK25Rfc&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=59",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/m-coloring-problem_981273?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://practice.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1#"
+                },
+                {
+                    "id": "sdkslvr",
+                    "tags": "Amazon,Walmart,Tekion-corp,Oracle,Adobe,Google,Facebook,CRED,Meesho,Swiggy,Dream11,InMobi,Oyo,PayTM",
+                    "title": "Sudoko Solver",
+                    "yt_link": "https://www.youtube.com/watch?v=FWAIf_EVUKE&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=58",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/sudoku-solver_8416969?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/sudoku-solver/"
+                },
+                {
+                    "id": "xprssinddprtrs",
+                    "tags": "",
+                    "title": "Expression Add Operators",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/find-x-raised-to-power-n-_626560?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/expression-add-operators/"
+                }
+            ]
+        },
+        {
+            "sl_no": 4,
+            "title": "Bit Manipulation [Concepts & Problems]",
+            "ques": [
+                {
+                    "id": "intrdctintbitmnipltinthry",
+                    "tags": "",
+                    "title": "Introduction to Bit Manipulation [Theory]",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/bit-manipulation_8142533?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "chckifthithbitisstrnt",
+                    "tags": "",
+                    "title": "Check if the i-th bit is set or not",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/check-whether-k-th-bit-is-set-or-not_5026446?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "chckifnmbrisddrnt",
+                    "tags": "",
+                    "title": "Check if a number is odd or not",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/codestudio/problems/odd-even_7993579?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "chckifnmbrispwrf2rnt",
+                    "tags": "",
+                    "title": "Check if a number is power of 2 or not",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/power-of-two_893061?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/power-of-two/"
+                },
+                {
+                    "id": "cntthnmbrfstbits",
+                    "tags": "",
+                    "title": "Count the number of set bits",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/count-total-set-bits_784?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "stnstthrightmstnstbit",
+                    "tags": "",
+                    "title": "Set/Unset the rightmost unset bit",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/set-the-rightmost-unset-bit_8160456?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "swptwnmbrs",
+                    "tags": "",
+                    "title": "Swap two numbers",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/swap-two-numbers_1380853?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "dividtwintgrswithtsingmltiplictindivisinndmdprtr",
+                    "tags": "",
+                    "title": "Divide two integers without using multiplication, division and mod operator",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/-divide-two-integers_1112617?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/divide-two-integers/"
+                },
+                {
+                    "id": "cntnmbrfbitstbflippdtcnvrttb",
+                    "tags": "",
+                    "title": "Count number of bits to be flipped to convert A to B",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/flip-bits_8160405?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/minimum-bit-flips-to-convert-number/"
+                },
+                {
+                    "id": "findthnmbrthtpprsddnmbrftims",
+                    "tags": "",
+                    "title": "Find the number that appears odd number of times",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/one-odd-occurring_4606074?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/single-number/"
+                },
+                {
+                    "id": "pwrst",
+                    "tags": "",
+                    "title": "Power Set",
+                    "yt_link": "https://www.youtube.com/watch?v=b7AYbpM5YrE&t=232s",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/subsequences-of-string_985087?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/subsets/"
+                },
+                {
+                    "id": "fndxrfnmbrsfrmltr",
+                    "tags": "",
+                    "title": "Find xor of numbers from L to R",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/l-to-r-xor_8160412?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "findthtwnmbrsppringddnmbrftims",
+                    "tags": "",
+                    "title": "Find the two numbers appearing odd number of times",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/two-numbers-with-odd-occurrences_8160466?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "printprimfctrsfnmbr",
+                    "tags": null,
+                    "title": "Print Prime Factors of a Number",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/prime-factorisation_1760849?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "lldivisrsfnmbr",
+                    "tags": null,
+                    "title": "All Divisors of a Number",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/print-all-divisors-of-a-number_1164188?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "sivfrtsthns",
+                    "tags": null,
+                    "title": "Sieve of Eratosthenes",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/prime-factorisation_1760849?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/count-primes/"
+                },
+                {
+                    "id": "findprimfctristinfnmbrsingsiv",
+                    "tags": null,
+                    "title": "Find Prime Factorisation of a Number using Sieve",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/prime-factorisation_1760849?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "pwrnx",
+                    "tags": null,
+                    "title": "Power(n, x)",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/power-of-numbers_8157729?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/powx-n/"
+                }
+            ]
+        },
+        {
+            "sl_no": 5,
+            "title": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+            "ques": [
+                {
+                    "id": "implmntstcksingrrys",
+                    "tags": "Samsung,Netflix,Adobe,Google,Oracle,Tekion-corp,CRED,Meesho,Swiggy,Dream11,InMobi,Oyo,PayTM",
+                    "title": "Implement Stack using Arrays",
+                    "yt_link": "https://www.youtube.com/watch?v=GYptUgnIM_I&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=68",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/stack-implementation-using-array_3210209?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "implmntqsingrrys",
+                    "tags": "Adobe,Bloomberg,Samsung,Google,Flipkart,Netflix,CRED,Meesho,Swiggy,Dream11,InMobi,Oyo,PayTM,Byju's",
+                    "title": "Implement Queue using Arrays",
+                    "yt_link": "https://www.youtube.com/watch?v=M6GnoUDpqEE&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=72",
+                    "p1_link": "https://www.codingninjas.com/codestudio/problems/implement-queue-using-arrays_8390825?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "implmntstcksingq",
+                    "tags": "",
+                    "title": "Implement Stack using Queue",
+                    "yt_link": "https://www.youtube.com/watch?v=jDZQKzEtbYQ&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=74",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/stack-using-queue_795152?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/implement-stack-using-queues/"
+                },
+                {
+                    "id": "implmntqsingstck",
+                    "tags": "",
+                    "title": "Implement Queue using Stack",
+                    "yt_link": "https://www.youtube.com/watch?v=3Et9MrMc02A&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=75",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/day-25-:-queue-using-stack_799482?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/implement-queue-using-stacks/"
+                },
+                {
+                    "id": "implmntstcksinglinkdlist",
+                    "tags": "",
+                    "title": "Implement stack using Linkedlist",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/implement-stack-with-linked-list_1279905?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "implmntqsinglinkdlist",
+                    "tags": "",
+                    "title": "Implement queue using Linkedlist",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/codestudio/problems/implement-queue-using-linked-list_8161235?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "chckfrblncdprnthsis",
+                    "tags": "",
+                    "title": "Check for balanced paranthesis",
+                    "yt_link": "https://www.youtube.com/watch?v=wkDfsKijrZ8&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=74",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/valid-parentheses_795104?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/valid-parentheses/"
+                },
+                {
+                    "id": "implmntminstck",
+                    "tags": "",
+                    "title": "Implement Min Stack",
+                    "yt_link": "https://youtu.be/V09NfaGf2ao",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/min-stack_3843991?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/min-stack/"
+                },
+                {
+                    "id": "infixtpstfixcnvrsinsingstck",
+                    "tags": "",
+                    "title": "Infix to Postfix Conversion using Stack",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/day-23-:-infix-to-postfix-_1382146?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "prfixtinfixcnvrsin",
+                    "tags": "",
+                    "title": "Prefix to Infix Conversion",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/prefix-to-infix_1215000?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "prfixtpstfixcnvrsin",
+                    "tags": "",
+                    "title": "Prefix to Postfix Conversion",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/codestudio/problems/convert-prefix-to-postfix_8391014?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "pstfixtprfixcnvrsin",
+                    "tags": "",
+                    "title": "Postfix to Prefix Conversion",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/postfix-to-prefix_1788455?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "pstfixtinfix",
+                    "tags": "",
+                    "title": "Postfix to Infix",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/codestudio/problems/postfix-to-infix_8382386?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "cnvrtinfixtprfixnttin",
+                    "tags": "",
+                    "title": "Convert Infix To Prefix Notation",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/day-23-:-infix-to-postfix-_1382146?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "nxtgrtrlmnt",
+                    "tags": "Tekion-corp,Adobe,Netflix,Bloomberg,Facebook,Oracle,Google,Microsoft,Flipkart,CRED,Meesho,Swiggy,Dream11,InMobi,Oyo,PayTM,Byju's",
+                    "title": "Next Greater Element",
+                    "yt_link": "https://www.youtube.com/watch?v=Du881K7Jtk8&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=75",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/next-greater-element_670312?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/next-greater-element-i/"
+                },
+                {
+                    "id": "nxtgrtrlmnt2",
+                    "tags": "",
+                    "title": "Next Greater Element 2",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/next-greater-element-ii_6212757?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/next-greater-element-ii/"
+                },
+                {
+                    "id": "nxtsmllrlmnt",
+                    "tags": "Walmart,Bloomberg,Netflix,Tekion-corp,Microsoft,Facebook,Google,Flipkart,Adobe,CRED,Meesho,Swiggy,Dream11,InMobi,Oyo",
+                    "title": "Next Smaller Element",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/immediate-smaller-element-_1062597?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://www.interviewbit.com/problems/nearest-smaller-element/"
+                },
+                {
+                    "id": "nmbrfngstthright",
+                    "tags": "",
+                    "title": "Number of NGEs to the right",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/count-of-greater-elements-to-the-right_8365436?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "trppingrinwtr",
+                    "tags": "Microsoft,Amazon,Netflix,Flipkart,Oracle,Walmart,Facebook,Adobe,CRED,Meesho,Swiggy,Dream11,InMobi,Oyo",
+                    "title": "Trapping Rainwater",
+                    "yt_link": "https://www.youtube.com/watch?v=m18Hntz4go8&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=42",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/trapping-rain-water_630519?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/trapping-rain-water/"
+                },
+                {
+                    "id": "smfsbrryminimm",
+                    "tags": "",
+                    "title": "Sum of subarray minimum",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/codestudio/problems/sum-of-subarray-minimums_8365431?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/sum-of-subarray-minimums/"
+                },
+                {
+                    "id": "stridcllisin",
+                    "tags": "",
+                    "title": "Asteroid Collision",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/asteroid-collision_977232?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/asteroid-collision/"
+                },
+                {
+                    "id": "smfsbrryrngs",
+                    "tags": "",
+                    "title": "Sum of subarray ranges",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/subarray-range-sum_8365419?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/sum-of-subarray-ranges/"
+                },
+                {
+                    "id": "rmvkdigits",
+                    "tags": "",
+                    "title": "Remove k Digits",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/remove-k-digits_1461221?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/remove-k-digits/"
+                },
+                {
+                    "id": "lrgstrctnglinhistgrm",
+                    "tags": "",
+                    "title": "Largest rectangle in a histogram",
+                    "yt_link": "https://www.youtube.com/watch?v=X0X6G-eWgQ8&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=81",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/largest-rectangle-in-a-histogram_1058184?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/largest-rectangle-in-histogram/"
+                },
+                {
+                    "id": "mximlrctngls",
+                    "tags": "",
+                    "title": "Maximal Rectangles",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/maximum-size-rectangle-sub-matrix-with-all-1's_893017?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/maximal-rectangle/"
+                },
+                {
+                    "id": "slidingwindwmximm",
+                    "tags": "",
+                    "title": "Sliding Window maximum",
+                    "yt_link": "https://www.youtube.com/watch?v=CZQGRp93K4k&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=83",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/sliding-maximum-_701652?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/sliding-window-maximum/"
+                },
+                {
+                    "id": "stckspnprblm",
+                    "tags": "",
+                    "title": "Stock span problem",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/stock-span_5243295?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/online-stock-span/"
+                },
+                {
+                    "id": "thclbrityprblm",
+                    "tags": "",
+                    "title": "The Celebrity Problem",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/the-celebrity-problem_982769?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/accounts/login/?next=/problems/find-the-celebrity/"
+                },
+                {
+                    "id": "lrcchimprtnt",
+                    "tags": "",
+                    "title": "LRU cache (IMPORTANT)",
+                    "yt_link": "https://www.youtube.com/watch?v=xDEuM5qa0zg&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=77",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/lru-cache-implementation_670276?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/lru-cache/"
+                },
+                {
+                    "id": "lfcch",
+                    "tags": "",
+                    "title": "LFU cache",
+                    "yt_link": "https://www.youtube.com/watch?v=0PSB9y8ehbk&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=79",
+                    "p1_link": "https://www.codingninjas.com/codestudio/problems/lfu-cache_8381892?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/lfu-cache/"
+                }
+            ]
+        },
+        {
+            "sl_no": 6,
+            "title": "Sliding Window & Two Pointer Combined Problems",
+            "ques": [
+                {
+                    "id": "lngstsbstringwithtrptingchrctrs",
+                    "tags": "",
+                    "title": "Longest Substring Without Repeating Characters",
+                    "yt_link": "https://www.youtube.com/watch?v=qtVh-XEpsJo&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=26",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/longest-substring-without-repeating-characters_630418?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/longest-substring-without-repeating-characters/"
+                },
+                {
+                    "id": "mxcnsctivnsiii",
+                    "tags": "",
+                    "title": "Max Consecutive Ones III",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/maximum-consecutive-ones_892994?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/max-consecutive-ones-iii/"
+                },
+                {
+                    "id": "fritintbskts",
+                    "tags": "",
+                    "title": "Fruit Into Baskets",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/fruits-and-baskets_985356?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "lngstrptingchrctrrplcmnt",
+                    "tags": "",
+                    "title": "longest repeating character replacement",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/longest-repeating-substring_980523?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/longest-repeating-character-replacement/"
+                },
+                {
+                    "id": "binrysbrrywithsm",
+                    "tags": "",
+                    "title": "Binary subarray with sum",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/count-substrings-with-k-ones_3128698?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/binary-subarrays-with-sum/"
+                },
+                {
+                    "id": "cntnmbrfnicsbrrys",
+                    "tags": "",
+                    "title": "Count number of nice subarrays",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/count-distinct-subarrays-with-at-most-k-odd-elements_1069335?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/count-number-of-nice-subarrays/"
+                },
+                {
+                    "id": "nmbrfsbstringcntiningllthrchrctrs",
+                    "tags": "",
+                    "title": "Number of substring containing all three characters",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/count-substring-with-abc_8160465?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/"
+                },
+                {
+                    "id": "mximmpintycnbtinfrmcrds",
+                    "tags": "",
+                    "title": "Maximum point you can obtain from cards",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/codestudio/problems/maximum-points-from-cards_8391016?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/"
+                },
+                {
+                    "id": "lngstsbstringwithtmstkdistinctchrctrs",
+                    "tags": "",
+                    "title": "Longest Substring with At Most K Distinct Characters",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/longest-substring-with-at-most-k-distinct-characters_2221410?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/"
+                },
+                {
+                    "id": "sbrrywithkdiffrntintgrs",
+                    "tags": "",
+                    "title": "Subarray with k different integers",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/subarrays-with-at-most-‘k’-distinct-values_1473804?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/subarrays-with-k-different-integers/"
+                },
+                {
+                    "id": "minimmwindwsbstring",
+                    "tags": "",
+                    "title": "Minimum Window Substring",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/minimum-window-substring_1215004?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/minimum-window-substring/"
+                },
+                {
+                    "id": "minimmwindwsbsqnc",
+                    "tags": "",
+                    "title": "Minimum Window Subsequence",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/minimum-window-subsequence_2181133?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/minimum-window-subsequence/"
+                }
+            ]
+        },
+        {
+            "sl_no": 7,
+            "title": "Heaps [Learning, Medium, Hard Problems]",
+            "ques": [
+                {
+                    "id": "intrdctintprirityqssingbinryhps",
+                    "tags": "",
+                    "title": "Introduction to Priority Queues using Binary Heaps",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/implement-a-priority-queue-_1743878?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "minhpndmxhpimplmnttin",
+                    "tags": "",
+                    "title": "Min Heap and Max Heap Implementation",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/min-heap-implementation_5480527?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "chckifnrryrprsntsminhprnt",
+                    "tags": "",
+                    "title": "Check if an array represents a min-heap or not",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/is-heap-possible-from-the-array?_8164274?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "cnvrtminhptmxhp",
+                    "tags": "",
+                    "title": "Convert min Heap to max Heap",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/codestudio/problems/convert-min-heap-to-max-heap_1381084?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "kthlrgstlmntinnrrysprirityq",
+                    "tags": "",
+                    "title": "Kth largest element in an array [use priority queue]",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/codestudio/problems/k-largest-elements_796005?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/kth-largest-element-in-an-array/"
+                },
+                {
+                    "id": "kthsmllstlmntinnrrysprirityq",
+                    "tags": "",
+                    "title": "Kth smallest element in an array [use priority queue]",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/merge-k-sorted-arrays_975379?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "srtksrtdrry",
+                    "tags": "",
+                    "title": "Sort K sorted array",
+                    "yt_link": null,
+                    "p1_link": null,
+                    "p2_link": null
+                },
+                {
+                    "id": "mrgmsrtdlists",
+                    "tags": "",
+                    "title": "Merge M sorted Lists",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/merge-k-sorted-lists_992772?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/merge-k-sorted-lists/"
+                },
+                {
+                    "id": "rplcchrrylmntbyitscrrspndingrnk",
+                    "tags": "",
+                    "title": "Replace each array element by its corresponding rank",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/replace-each-element-of-array-with-its-corresponding-rank_975384?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "tskschdlr",
+                    "tags": "",
+                    "title": "Task Scheduler",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/task-scheduler_1070424?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/task-scheduler/"
+                },
+                {
+                    "id": "hndsfstrights",
+                    "tags": "",
+                    "title": "Hands of Straights",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/groups-in-ninja-land._1459215?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/hand-of-straights/"
+                },
+                {
+                    "id": "dsigntwittr",
+                    "tags": "",
+                    "title": "Design twitter",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/codestudio/problems/design-twitter_8380711?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/design-twitter/"
+                },
+                {
+                    "id": "cnnctnrpswithminimlcst",
+                    "tags": "",
+                    "title": "Connect `n` ropes with minimal cost",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/connect-n-ropes-with-minimum-cost_625783?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "kthlrgstlmntinstrmfrnningintgrs",
+                    "tags": "",
+                    "title": "Kth largest element in a stream of running integers",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/kth-largest-element-in-a-stream_800301?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/kth-largest-element-in-a-stream/#:~:text=Implement%20KthLargest%20class%3A,largest%20element%20in%20the%20stream."
+                },
+                {
+                    "id": "mximmsmcmbintin",
+                    "tags": "Bloomberg,Adobe,Samsung,Oracle,Amazon,Microsoft,Netflix,Tekion-corp,CRED,Meesho,Swiggy,Dream11,InMobi,Oyo,PayTM",
+                    "title": "Maximum Sum Combination",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/median-in-a-stream_975268?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://www.interviewbit.com/problems/maximum-sum-combinations/"
+                },
+                {
+                    "id": "findmdinfrmdtstrm",
+                    "tags": "Oracle,Tekion-corp,Google,Flipkart,Netflix,Walmart,Facebook,CRED,Meesho,Swiggy,Dream11,InMobi",
+                    "title": "Find Median from Data Stream",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/median-in-a-stream_975268?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/find-median-from-data-stream/"
+                },
+                {
+                    "id": "kmstfrqntlmnts",
+                    "tags": "Implement Stack using Arrays",
+                    "title": "K most frequent elements",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/k-most-frequent-elements_3167808?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/top-k-frequent-elements/"
+                }
+            ]
+        },
+        {
+            "sl_no": 8,
+            "title": "Greedy Algorithms [Easy, Medium/Hard]",
+            "ques": [
+                {
+                    "id": "ssignckis",
+                    "tags": "",
+                    "title": "Assign Cookies",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/codestudio/problems/assign-cookies_8390826?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/assign-cookies/"
+                },
+                {
+                    "id": "frctinlknpsckprblm",
+                    "tags": "Bloomberg,Google,Flipkart,Samsung,Adobe,Walmart,Amazon,Facebook,CRED,Meesho,Swiggy,Dream11,InMobi,Oyo",
+                    "title": "Fractional Knapsack Problem",
+                    "yt_link": "https://www.youtube.com/watch?v=F_DDzYnxO14&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=49",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/fractional-knapsack_975286?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://practice.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1"
+                },
+                {
+                    "id": "grdylgrithmtfindminimmnmbrfcins",
+                    "tags": "Flipkart,Tekion-corp,Facebook,Bloomberg,Amazon,Walmart,Adobe,Google,Microsoft,CRED,Meesho,Swiggy,Dream11,InMobi,Oyo,PayTM",
+                    "title": "Greedy algorithm to find minimum number of coins",
+                    "yt_link": "https://www.youtube.com/watch?v=mVg9CfJvayM&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=48",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/find-minimum-number-of-coins_975277?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://www.geeksforgeeks.org/find-minimum-number-of-coins-that-make-a-change/"
+                },
+                {
+                    "id": "lmndchng",
+                    "tags": "",
+                    "title": "Lemonade Change",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/codestudio/problems/lemonade-change_8224112?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/lemonade-change/"
+                },
+                {
+                    "id": "vlidprnthsischckr",
+                    "tags": "",
+                    "title": "Valid Paranthesis Checker",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/balanced-parentheses_8162202?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/valid-parenthesis-string/"
+                },
+                {
+                    "id": "nmtingsinnrm",
+                    "tags": "Oracle,Tekion-corp,Bloomberg,Adobe,Netflix,Flipkart,Google,CRED,Meesho,Swiggy,Dream11,InMobi,Oyo",
+                    "title": "N meetings in one room",
+                    "yt_link": "https://www.youtube.com/watch?v=II6ziNnub1Q&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=45",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/maximum-meetings_1062658?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1"
+                },
+                {
+                    "id": "jmpgm",
+                    "tags": "",
+                    "title": "Jump Game",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/jump-game_3164697?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/jump-game/"
+                },
+                {
+                    "id": "jmpgm2",
+                    "tags": "",
+                    "title": "Jump Game 2",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/jump-game_893178?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/jump-game-ii/"
+                },
+                {
+                    "id": "minimmnmbrfpltfrmsrqirdfrrilwy",
+                    "tags": "Bloomberg,Google,Oracle,Facebook,Amazon,Tekion-corp,Microsoft,Flipkart,Walmart,CRED,Meesho,Swiggy,Dream11,InMobi,Oyo,PayTM,Byju's",
+                    "title": "Minimum number of platforms required for a railway",
+                    "yt_link": "https://www.youtube.com/watch?v=dxVcMDI7vyI&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=46",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/minimum-number-of-platforms_799400?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1#"
+                },
+                {
+                    "id": "jbsqncingprblm",
+                    "tags": "Tekion-corp,Walmart,Microsoft,Flipkart,Google,Amazon,CRED,Meesho,Swiggy,Dream11,InMobi",
+                    "title": "Job sequencing Problem",
+                    "yt_link": "https://www.youtube.com/watch?v=LjPx4wQaRIs&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=47",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/job-sequencing-problem_1169460?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://practice.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1#"
+                },
+                {
+                    "id": "cndy",
+                    "tags": "",
+                    "title": "Candy",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/candies_893290?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/candy/"
+                },
+                {
+                    "id": "prgrmfrshrtstjbfirstrsjfcpschdling",
+                    "tags": "",
+                    "title": "Program for Shortest Job First (or SJF) CPU Scheduling",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/sjf_1172165?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "prgrmfrlstrcntlysdlrpgrplcmntlgrithm",
+                    "tags": "",
+                    "title": "Program for Least Recently Used (LRU) Page Replacement Algorithm",
+                    "yt_link": null,
+                    "p1_link": null,
+                    "p2_link": null
+                },
+                {
+                    "id": "insrtintrvl",
+                    "tags": "",
+                    "title": "Insert Interval",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/-insert-interval_285893?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/insert-interval/"
+                },
+                {
+                    "id": "mrgintrvls",
+                    "tags": "",
+                    "title": "Merge Intervals",
+                    "yt_link": "https://www.youtube.com/watch?v=2JzRBPFYbKE&list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2&index=6",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/merge-intervals_699917?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/merge-intervals/"
+                },
+                {
+                    "id": "nnvrlppingintrvls",
+                    "tags": "",
+                    "title": "Non-overlapping Intervals",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/non-overlapping-intervals_3169341?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/non-overlapping-intervals/"
+                }
+            ]
+        },
+        {
+            "sl_no": 9,
+            "title": "Binary Trees [Traversals, Medium and Hard Problems]",
+            "ques": [
+                {
+                    "id": "intrdctinttrs",
+                    "tags": "",
+                    "title": "Introduction to Trees",
+                    "yt_link": "https://youtu.be/_ANrF3FJm7I",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/number-of-nodes_8162204?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "binrytrrprsnttininc",
+                    "tags": "",
+                    "title": "Binary Tree Representation in C++",
+                    "yt_link": "https://youtu.be/ctCpP0RFDFc",
+                    "p1_link": "https://www.codingninjas.com/codestudio/problems/create-binary-tree_8360671?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "binrytrrprsnttininjv",
+                    "tags": "",
+                    "title": "Binary Tree Representation in Java",
+                    "yt_link": "https://youtu.be/hyLyW7rP24I",
+                    "p1_link": "https://www.codingninjas.com/codestudio/problems/create-binary-tree_8360671?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "binrytrtrvrslsinbinrytr",
+                    "tags": "",
+                    "title": "Binary Tree Traversals in Binary Tree",
+                    "yt_link": "https://youtu.be/jmy0LaGET1I",
+                    "p1_link": "https://www.codingninjas.com/codestudio/problems/tree-traversal_981269?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "prrdrtrvrslfbinrytr",
+                    "tags": "",
+                    "title": "Preorder Traversal of Binary Tree",
+                    "yt_link": "https://youtu.be/RlUu72JrOCQ",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/preorder-binary-tree_5948?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/binary-tree-preorder-traversal/"
+                },
+                {
+                    "id": "inrdrtrvrslfbinrytr",
+                    "tags": "",
+                    "title": "Inorder Traversal of Binary Tree",
+                    "yt_link": "https://youtu.be/Z_NEgBgbRVI",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/inorder-traversal_3839605?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/binary-tree-inorder-traversal/"
+                },
+                {
+                    "id": "pstrdrtrvrslfbinrytr",
+                    "tags": "",
+                    "title": "Post-order Traversal of Binary Tree",
+                    "yt_link": "https://youtu.be/COQOU6klsBg",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/postorder-traversal_2035933?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/binary-tree-postorder-traversal/"
+                },
+                {
+                    "id": "lvlrdrtrvrsllvlrdrtrvrslinspirlfrm",
+                    "tags": "",
+                    "title": "Level order Traversal / Level order traversal in spiral form",
+                    "yt_link": "https://youtu.be/EoAsWbO7sqg",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/zigzag-binary-tree-traversal_920532?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/binary-tree-level-order-traversal/"
+                },
+                {
+                    "id": "itrtivprrdrtrvrslfbinrytr",
+                    "tags": "",
+                    "title": "Iterative Preorder Traversal of Binary Tree",
+                    "yt_link": "https://youtu.be/Bfqd8BsPVuw",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/preorder-binary-tree_5948?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/binary-tree-preorder-traversal/"
+                },
+                {
+                    "id": "itrtivinrdrtrvrslfbinrytr",
+                    "tags": "",
+                    "title": "Iterative Inorder Traversal of Binary Tree",
+                    "yt_link": "https://youtu.be/lxTGsVXjwvM",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/inorder-traversal_3839605?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/binary-tree-inorder-traversal/"
+                },
+                {
+                    "id": "pstrdrtrvrslfbinrytrsing2stck",
+                    "tags": "",
+                    "title": "Post-order Traversal of Binary Tree using 2 stack",
+                    "yt_link": "https://youtu.be/2YBhNLodD8Q",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/postorder-traversal_2035933?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/binary-tree-postorder-traversal/"
+                },
+                {
+                    "id": "pstrdrtrvrslfbinrytrsing1stck",
+                    "tags": "",
+                    "title": "Post-order Traversal of Binary Tree using 1 stack",
+                    "yt_link": "https://youtu.be/NzIGLLwZBS8",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/postorder-traversal_2035933?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/binary-tree-postorder-traversal/"
+                },
+                {
+                    "id": "prrdrinrdrndpstrdrtrvrslinntrvrsl",
+                    "tags": "",
+                    "title": "Preorder, Inorder, and Postorder Traversal in one Traversal",
+                    "yt_link": "https://youtu.be/ySp2epYvgTE",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/tree-traversals_981269?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "hightfbinrytr",
+                    "tags": "",
+                    "title": "Height of a Binary Tree",
+                    "yt_link": "https://youtu.be/eD3tmO66aBA",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/height-of-binary-tree_4609628?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/maximum-depth-of-binary-tree/"
+                },
+                {
+                    "id": "chckifthbinrytrishightblncdrnt",
+                    "tags": "",
+                    "title": "Check if the Binary tree is height-balanced or not",
+                    "yt_link": "https://youtu.be/Yt50Jfbd8Po",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/is-height-balanced-binary-tree_975497?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/balanced-binary-tree/"
+                },
+                {
+                    "id": "dimtrfbinrytr",
+                    "tags": "",
+                    "title": "Diameter of Binary Tree",
+                    "yt_link": "https://youtu.be/Rezetez59Nk",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/diameter-of-binary-tree_920552?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/diameter-of-binary-tree/"
+                },
+                {
+                    "id": "mximmpthsm",
+                    "tags": "",
+                    "title": "Maximum path sum",
+                    "yt_link": "https://youtu.be/WszrfSwMz58",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/maximum-sum-path-of-a-binary-tree._1214968?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/binary-tree-maximum-path-sum/"
+                },
+                {
+                    "id": "chckiftwtrsridnticlrnt",
+                    "tags": "",
+                    "title": "Check if two trees are identical or not",
+                    "yt_link": "https://youtu.be/BhuvF_-PWS0",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/check-identical-trees_799364?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/same-tree/"
+                },
+                {
+                    "id": "zigzgtrvrslfbinrytr",
+                    "tags": "",
+                    "title": "Zig Zag Traversal of Binary Tree",
+                    "yt_link": "https://youtu.be/3OXWEdlIGl4",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/zigzag-binary-tree-traversal_920532?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/"
+                },
+                {
+                    "id": "bndrytrvrslfbinrytr",
+                    "tags": "",
+                    "title": "Boundary Traversal of Binary Tree",
+                    "yt_link": "https://youtu.be/0ca1nvR0be4",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/boundary-traversal-of-binary-tree_790725?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/boundary-of-binary-tree/"
+                },
+                {
+                    "id": "vrticlrdrtrvrslfbinrytr",
+                    "tags": "",
+                    "title": "Vertical Order Traversal of Binary Tree",
+                    "yt_link": "https://youtu.be/q_a6lpbKJdw",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/vertical-order-traversal_3622711?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/"
+                },
+                {
+                    "id": "tpviwfbinrytr",
+                    "tags": "",
+                    "title": "Top View of Binary Tree",
+                    "yt_link": "https://youtu.be/Et9OCDNvJ78",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/top-view-of-binary-tree_799401?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1"
+                },
+                {
+                    "id": "bttmviwfbinrytr",
+                    "tags": "",
+                    "title": "Bottom View of Binary Tree",
+                    "yt_link": "https://youtu.be/0FtVY6I4pB8",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/bottom-view-of-binary-tree_893110?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1"
+                },
+                {
+                    "id": "rightlftviwfbinrytr",
+                    "tags": "",
+                    "title": "Right/Left View of Binary Tree",
+                    "yt_link": "https://youtu.be/KV4mRzTjlAk",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/left-view-of-binary-tree_625707?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/binary-tree-right-side-view/"
+                },
+                {
+                    "id": "symmtricbinrytr",
+                    "tags": "",
+                    "title": "Symmetric Binary Tree",
+                    "yt_link": "https://youtu.be/nKggiEpBE",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/symmetric-tree_981177?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/symmetric-tree/"
+                },
+                {
+                    "id": "rttndpthinbinrytr",
+                    "tags": "",
+                    "title": "Root to Node Path in Binary Tree",
+                    "yt_link": "https://youtu.be/fmflMqVOC7k",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/all-root-to-leaf-paths-in-binary-tree._983599?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "lcinbinrytr",
+                    "tags": "",
+                    "title": "LCA in Binary Tree",
+                    "yt_link": "https://youtu.be/_-QHfMDde90",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/lca-of-binary-tree_920541?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/"
+                },
+                {
+                    "id": "mximmwidthfbinrytr",
+                    "tags": "",
+                    "title": "Maximum width of a Binary Tree",
+                    "yt_link": "https://youtu.be/ZbybYvcVLks",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/maximum-width-in-binary-tree_763671?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/maximum-width-of-binary-tree/"
+                },
+                {
+                    "id": "chckfrchildrnsmprprty",
+                    "tags": "",
+                    "title": "Check for Children Sum Property",
+                    "yt_link": "https://youtu.be/fnmisPM6cVo",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/children-sum-property_8357239?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "printllthndstdistncfkinbinrytr",
+                    "tags": "",
+                    "title": "Print all the Nodes at a distance of K in a Binary Tree",
+                    "yt_link": "https://youtu.be/i9ORlEy6EsI",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/print-nodes-at-distance-k-from-a-given-node_842560?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/"
+                },
+                {
+                    "id": "minimmtimtkntbrnthbinrytrfrmnd",
+                    "tags": "",
+                    "title": "Minimum time taken to BURN the Binary Tree from a Node",
+                    "yt_link": "https://youtu.be/2r5wLmQfD6g",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/time-to-burn-tree_1469067?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "cntttlndsincmpltbinrytr",
+                    "tags": "",
+                    "title": "Count total Nodes in a COMPLETE Binary Tree",
+                    "yt_link": "https://youtu.be/u-yWemKGWO0",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/nodes-in-complete-binary-tree_1281151?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/count-complete-tree-nodes/"
+                },
+                {
+                    "id": "rqirmntsnddtcnstrctniqbinrytrthry",
+                    "tags": "",
+                    "title": "Requirements needed to construct a Unique Binary Tree | Theory",
+                    "yt_link": "https://youtu.be/9GMECGQgWrQ",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/unique-binary-tree_8180906?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "cnstrctbinrytrfrminrdrndprrdr",
+                    "tags": "",
+                    "title": "Construct Binary Tree from inorder and preorder",
+                    "yt_link": "https://youtu.be/aZNaLrVebKQ",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/construct-binary-tree-from-inorder-and-preorder-traversal_920539?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/"
+                },
+                {
+                    "id": "cnstrctthbinrytrfrmpstrdrndinrdrtrvrsl",
+                    "tags": "",
+                    "title": "Construct the Binary Tree from Postorder and Inorder Traversal",
+                    "yt_link": "https://youtu.be/LgLRTaEMRVc",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/construct-binary-tree-from-inorder-and-postorder-traversal_1266106?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/"
+                },
+                {
+                    "id": "sriliznddsrilizbinrytr",
+                    "tags": "",
+                    "title": "Serialize and deserialize Binary Tree",
+                    "yt_link": "https://youtu.be/-YbXySKJsX8",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/serialize-and-deserialize-binary-tree_920328?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/"
+                },
+                {
+                    "id": "mrrisprrdrtrvrslfbinrytr",
+                    "tags": "",
+                    "title": "Morris Preorder Traversal of a Binary Tree",
+                    "yt_link": "https://youtu.be/80Zug6D1_r4",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/preorder-binary-tree_5948?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/binary-tree-inorder-traversal/"
+                },
+                {
+                    "id": "mrrisinrdrtrvrslfbinrytr",
+                    "tags": "",
+                    "title": "Morris Inorder Traversal of a Binary Tree",
+                    "yt_link": "https://youtu.be/80Zug6D1_r4",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/inorder-traversal_3839605?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/binary-tree-inorder-traversal/"
+                },
+                {
+                    "id": "flttnbinrytrtlinkdlist",
+                    "tags": "",
+                    "title": "Flatten Binary Tree to LinkedList",
+                    "yt_link": "https://youtu.be/sWf7k1x9XR4",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/flatten-binary-tree-to-linked-list_1112615?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list/"
+                }
+            ]
+        },
+        {
+            "sl_no": 10,
+            "title": "Binary Search Trees [Concept and Problems]",
+            "ques": [
+                {
+                    "id": "intrdctintbinrysrchtr",
+                    "tags": "",
+                    "title": "Introduction to Binary Search Tree",
+                    "yt_link": "https://youtu.be/p7-9UvDQZ3w",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/binary-search-trees_8160443?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "srchinbinrysrchtr",
+                    "tags": "",
+                    "title": "Search in a Binary Search Tree",
+                    "yt_link": "https://youtu.be/KcNt6v_56cc",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/search-in-bst_1402878?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/search-in-a-binary-search-tree/"
+                },
+                {
+                    "id": "findminmxinbst",
+                    "tags": "",
+                    "title": "Find Min/Max in BST",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/minimum-element-in-bst_8160462?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "cilinbinrysrchtr",
+                    "tags": "",
+                    "title": "Ceil in a Binary Search Tree",
+                    "yt_link": "https://youtu.be/KSsk8AhdOZA",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/ceil-from-bst_920464?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "flrinbinrysrchtr",
+                    "tags": "",
+                    "title": "Floor in a Binary Search Tree",
+                    "yt_link": "https://youtu.be/xm_W1ub-K-w",
+                    "p1_link": "https://www.codingninjas.com/codestudio/problems/floor-from-bst_625868?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "insrtgivnndinbinrysrchtr",
+                    "tags": "",
+                    "title": "Insert a given Node in Binary Search Tree",
+                    "yt_link": "https://youtu.be/FiFiNvM29ps",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/insert-into-a-binary-search-tree_1279913?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/insert-into-a-binary-search-tree/"
+                },
+                {
+                    "id": "dltndinbinrysrchtr",
+                    "tags": "",
+                    "title": "Delete a Node in Binary Search Tree",
+                    "yt_link": "https://youtu.be/kouxiP_H5WE",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/delete-node-in-bst_920381?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/delete-node-in-a-bst/"
+                },
+                {
+                    "id": "findkthsmllstlrgstlmntinbst",
+                    "tags": "",
+                    "title": "Find K-th smallest/largest element in BST",
+                    "yt_link": "https://youtu.be/9TJYWh0adfk",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/kth-smallest-node-in-bst_920441?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/"
+                },
+                {
+                    "id": "chckiftrisbstrbt",
+                    "tags": "",
+                    "title": "Check if a tree is a BST or BT",
+                    "yt_link": "https://youtu.be/f-sj7I5oXEI",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/check-bst_5975?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/validate-binary-search-tree/"
+                },
+                {
+                    "id": "lcinbinrysrchtr",
+                    "tags": "",
+                    "title": "LCA in Binary Search Tree",
+                    "yt_link": "https://youtu.be/cX_kPV_foZc",
+                    "p1_link": null,
+                    "p2_link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/"
+                },
+                {
+                    "id": "cnstrctbstfrmprrdrtrvrsl",
+                    "tags": "",
+                    "title": "Construct a BST from a preorder traversal",
+                    "yt_link": "https://youtu.be/UmJT3j26t1I",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/construct-bst-from-preorder-traversal_2689307?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/"
+                },
+                {
+                    "id": "inrdrsccssrprdcssrinbst",
+                    "tags": "",
+                    "title": "Inorder Successor/Predecessor in BST",
+                    "yt_link": "https://youtu.be/SXKAD2svfmI",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/predecessor-and-successor-in-bst_893049?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/inorder-successor-in-bst/"
+                },
+                {
+                    "id": "mrg2bsts",
+                    "tags": "",
+                    "title": "Merge 2 BST's",
+                    "yt_link": "https://youtu.be/D2jMcmxU4bs",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/merge-two-bsts_920474?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/binary-search-tree-iterator/"
+                },
+                {
+                    "id": "twsminbstchckifthrxistspirwithsmk",
+                    "tags": "",
+                    "title": "Two Sum In BST | Check if there exists a pair with Sum K",
+                    "yt_link": "https://youtu.be/ssL3sHwPeb4",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/pair-sum-in-bst._920493?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/two-sum-iv-input-is-a-bst/"
+                },
+                {
+                    "id": "rcvrbstcrrctbstwithtwndsswppd",
+                    "tags": "",
+                    "title": "Recover BST | Correct BST with two nodes swapped",
+                    "yt_link": "https://youtu.be/ZWGW7FminDM",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/fix-bst_873137?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/recover-binary-search-tree/"
+                },
+                {
+                    "id": "lrgstbstinbinrytr",
+                    "tags": "",
+                    "title": "Largest BST in Binary Tree",
+                    "yt_link": "https://youtu.be/X0oXMdtUDwo",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/size-of-largest-bst-in-binary-tree_893103?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                }
+            ]
+        },
+        {
+            "sl_no": 11,
+            "title": "Graphs [Concepts & Problems]",
+            "ques": [
+                {
+                    "id": "grphndtyps",
+                    "tags": "",
+                    "title": "Graph and Types",
+                    "yt_link": "https://youtu.be/M3_pLsDdeuU",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/counting-graphs_8357237?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "grphrprsnttinc",
+                    "tags": "",
+                    "title": "Graph Representation | C++",
+                    "yt_link": "https://youtu.be/3oI-34aPMWM",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/creating-and-printing_1214551?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "grphrprsnttinjv",
+                    "tags": "",
+                    "title": "Graph Representation | Java",
+                    "yt_link": "https://youtu.be/3oI-34aPMWM",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/creating-and-printing_1214551?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "cnnctdcmpnntslgicxplntin",
+                    "tags": "",
+                    "title": "Connected Components | Logic Explanation",
+                    "yt_link": "https://youtu.be/lea-Wl_uWXY",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/find-the-number-of-states_1377943?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "bfs",
+                    "tags": "",
+                    "title": "BFS",
+                    "yt_link": "https://youtu.be/-tgVpUgsQ5k",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/bfs-in-graph_973002?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1"
+                },
+                {
+                    "id": "dfs",
+                    "tags": "",
+                    "title": "DFS",
+                    "yt_link": "https://youtu.be/Qzf1a--rhp8",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/dfs-traversal_630462?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1"
+                },
+                {
+                    "id": "nmbrfprvincsltcd",
+                    "tags": "",
+                    "title": "Number of provinces (leetcode)",
+                    "yt_link": "https://youtu.be/ACzkVtewUYA",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/find-the-number-of-states_1377943?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/number-of-provinces/#:~:text=A%20province%20is%20a%20group,the%20total%20number%20of%20provinces."
+                },
+                {
+                    "id": "cnnctdcmpnntsprblminmtrix",
+                    "tags": "",
+                    "title": "Connected Components Problem in Matrix",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/find-the-number-of-states_1377943?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "rttnrngs",
+                    "tags": "",
+                    "title": "Rotten Oranges",
+                    "yt_link": "https://www.youtube.com/watch?v=yf3oUhkvqA0",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/rotting-oranges_701655?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/rotting-oranges/"
+                },
+                {
+                    "id": "fldfill",
+                    "tags": "",
+                    "title": "Flood fill",
+                    "yt_link": "https://youtu.be/C-2_uSRli8o",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/flood-fill-_1082141?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/flood-fill/"
+                },
+                {
+                    "id": "cycldtctininnirctdgrphbfs",
+                    "tags": "",
+                    "title": "Cycle Detection in unirected Graph (bfs)",
+                    "yt_link": "https://youtu.be/BPlrALf1LDU",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/detect-cycle-in-an-undirected-graph-_758967?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "cycldtctininndirctdgrphdfs",
+                    "tags": "",
+                    "title": "Cycle Detection in undirected Graph (dfs)",
+                    "yt_link": "https://youtu.be/zQ3zgFypzX4",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/detect-cycle-in-an-undirected-graph-_758967?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "01mtrixbfsprblm",
+                    "tags": "",
+                    "title": "0/1 Matrix (Bfs Problem)",
+                    "yt_link": "https://youtu.be/edXdVwkYHF8",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/distance-of-nearest-cell-having-1-in-a-binary-matrix_1169913?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/01-matrix/"
+                },
+                {
+                    "id": "srrnddrginsdfs",
+                    "tags": "",
+                    "title": "Surrounded Regions (dfs)",
+                    "yt_link": "https://youtu.be/BtdgAys4yMk",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/replace-‘o’-with-‘x’_630517?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/surrounded-regions/"
+                },
+                {
+                    "id": "nmbrfnclvsfldfillimplmnttinmltisrc",
+                    "tags": "",
+                    "title": "Number of Enclaves [flood fill implementation - multisource]",
+                    "yt_link": "https://youtu.be/rxKcepXQgU4",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/matrix-traps_8365440?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/number-of-enclaves/"
+                },
+                {
+                    "id": "wrdlddr1",
+                    "tags": "",
+                    "title": "Word ladder - 1",
+                    "yt_link": "https://youtu.be/tRPda0rcf8E",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/word-ladder_1102319?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/word-ladder/"
+                },
+                {
+                    "id": "wrdlddr2",
+                    "tags": "",
+                    "title": "Word ladder - 2",
+                    "yt_link": "https://youtu.be/tRPda0rcf8E",
+                    "p1_link": "https://www.codingninjas.com/codestudio/problems/shortest-transition-paths_8391015?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/word-ladder-ii/"
+                },
+                {
+                    "id": "nmbrfdistinctislndsdfsmltisrc",
+                    "tags": "",
+                    "title": "Number of Distinct Islands [dfs multisource]",
+                    "yt_link": "https://youtu.be/muncqlKJrH0",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/distinct-islands_630460?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/number-of-distinct-islands-ii/"
+                },
+                {
+                    "id": "biprtitgrphdfs",
+                    "tags": "",
+                    "title": "Bipartite Graph (DFS)",
+                    "yt_link": "https://youtu.be/KG5YFfR0j8A",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/check-bipartite-graph-_920551?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/is-graph-bipartite/"
+                },
+                {
+                    "id": "cycldtctinindirctdgrphdfs",
+                    "tags": "",
+                    "title": "Cycle Detection in Directed Graph (DFS)",
+                    "yt_link": "https://youtu.be/9twcmtQj4DU",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/detect-cycle-in-a-directed-graph-_920545?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/course-schedule-ii/discuss/293048/detecting-cycle-in-directed-graph-problem"
+                },
+                {
+                    "id": "tpsrt",
+                    "tags": "",
+                    "title": "Topo Sort",
+                    "yt_link": "https://youtu.be/5lZ0iJMrUMk",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/topological-sorting_973003?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "khnslgrithm",
+                    "tags": "",
+                    "title": "Kahn's Algorithm",
+                    "yt_link": "https://youtu.be/73sneFXuTEg",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/topological-sorting_973003?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "cycldtctinindirctdgrphbfs",
+                    "tags": "",
+                    "title": "Cycle Detection in Directed Graph (BFS)",
+                    "yt_link": "https://youtu.be/iTBaI90lpDQ",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/detect-cycle-in-a-directed-graph_1062626?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "crsschdli",
+                    "tags": "",
+                    "title": "Course Schedule - I",
+                    "yt_link": "https://youtu.be/WAOfKpxYHR8",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/course-schedule-ii_1069243?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/course-schedule/"
+                },
+                {
+                    "id": "crsschdlii",
+                    "tags": "",
+                    "title": "Course Schedule - II",
+                    "yt_link": "https://youtu.be/WAOfKpxYHR8",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/course-schedule-ii_1069243?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/course-schedule-ii/"
+                },
+                {
+                    "id": "findvntlsfstts",
+                    "tags": "",
+                    "title": "Find eventual safe states",
+                    "yt_link": "https://youtu.be/2gtg3VsDGyc",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/safe-nodes-in-the-graph_1376703?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/find-eventual-safe-states/"
+                },
+                {
+                    "id": "lindictinry",
+                    "tags": "",
+                    "title": "Alien dictionary",
+                    "yt_link": "https://youtu.be/U3N_je7tWAs",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/alien-dictionary_630423?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/alien-dictionary/solution/"
+                },
+                {
+                    "id": "shrtstpthingwithnitwights",
+                    "tags": "",
+                    "title": "Shortest Path in UG with unit weights",
+                    "yt_link": "https://www.youtube.com/watch?v=C4gxoTaI71U&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=28",
+                    "p1_link": "https://www.codingninjas.com/codestudio/problems/single-source-shortest-path_8416371?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "shrtstpthindg",
+                    "tags": "",
+                    "title": "Shortest Path in DAG",
+                    "yt_link": "https://www.youtube.com/watch?v=ZUFQfFaU-8U&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=27",
+                    "p1_link": "https://www.codingninjas.com/codestudio/problems/shortest-path-in-dag_8381897?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "djisktrslgrithm",
+                    "tags": "",
+                    "title": "Djisktra's Algorithm",
+                    "yt_link": "https://www.youtube.com/watch?v=rp1SMw7HSO8&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=35",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/dijkstra's-shortest-path_985358?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "whyprirityqissdindjisktrslgrithm",
+                    "tags": "",
+                    "title": "Why priority Queue is used in Djisktra's Algorithm",
+                    "yt_link": "https://www.youtube.com/watch?v=rp1SMw7HSO8&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=35",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/dijkstra's-shortest-path_985358?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "shrtstpthinbinrymz",
+                    "tags": "",
+                    "title": "Shortest path in a binary maze",
+                    "yt_link": "https://www.youtube.com/watch?v=U5Mw4eyUmw4&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=36",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/shortest-path-in-a-binary-maze_893065?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/shortest-path-in-binary-matrix/"
+                },
+                {
+                    "id": "pthwithminimmffrt",
+                    "tags": "",
+                    "title": "Path with minimum effort",
+                    "yt_link": "https://youtu.be/0ytpZyiZFhA",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/path-with-minimum-effort_1380958?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/path-with-minimum-effort/"
+                },
+                {
+                    "id": "chpstflightswithinkstps",
+                    "tags": "",
+                    "title": "Cheapest flights within k stops",
+                    "yt_link": "https://youtu.be/9XybHVqTHcQ",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/saving-money_1171195?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/cheapest-flights-within-k-stops/"
+                },
+                {
+                    "id": "ntwrkdlytim",
+                    "tags": "",
+                    "title": "Network Delay time",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/network-delay-time_1382215?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/network-delay-time/"
+                },
+                {
+                    "id": "nmbrfwystrrivtdstintin",
+                    "tags": "",
+                    "title": "Number of ways to arrive at destination",
+                    "yt_link": "https://youtu.be/_-0mx0SmYxA",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/number-of-ways_8360639?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/"
+                },
+                {
+                    "id": "minimmstpstrchndfrmstrtbyprfrmingmltiplictinndmdprtinswithrrylmnts",
+                    "tags": "",
+                    "title": "Minimum steps to reach end from start by performing multiplication and mod operations with array elements",
+                    "yt_link": "https://www.youtube.com/watch?v=_BvEJ3VIDWw&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=39",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/minimum-operations_8360665?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "bllmnfrdlgrithm",
+                    "tags": "",
+                    "title": "Bellman Ford Algorithm",
+                    "yt_link": "https://youtu.be/0vVofAhAYjc",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/bellman-ford_2041977?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "flydwrshllgrithm",
+                    "tags": "",
+                    "title": "Floyd Warshal Algorithm",
+                    "yt_link": "https://youtu.be/YbY8cVwWAvw",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/floyd-warshall_2041979?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "findthcitywiththsmllstnmbrfnighbrsinthrshlddistnc",
+                    "tags": "",
+                    "title": "Find the city with the smallest number of neighbors in a threshold distance",
+                    "yt_link": "https://youtu.be/9XybHVqTHcQ",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance_1264289?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/"
+                },
+                {
+                    "id": "minimmspnningtr",
+                    "tags": "",
+                    "title": "Minimum Spanning Tree",
+                    "yt_link": "https://youtu.be/ZSPjZuZWCME",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/minimum-spanning-tree_631769?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "primslgrithm",
+                    "tags": "",
+                    "title": "Prim's Algorithm",
+                    "yt_link": "https://youtu.be/mJcZjjKzeqk",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/minimum-spanning-tree_631769?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "disjintstninbyrnk",
+                    "tags": "",
+                    "title": "Disjoint Set [Union by Rank]",
+                    "yt_link": "https://youtu.be/aBxjDBC4M1U",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/data-stream-as-disjoint-intervals_1382362?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "disjintstninbysiz",
+                    "tags": "",
+                    "title": "Disjoint Set [Union by Size]",
+                    "yt_link": "https://youtu.be/aBxjDBC4M1U",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/data-stream-as-disjoint-intervals_1382362?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "krsklslgrithm",
+                    "tags": "",
+                    "title": "Kruskal's Algorithm",
+                    "yt_link": "https://youtu.be/DMnDM_sxVig",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/kruskal’s-minimum-spanning-tree-algorithm_1082553?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "nmbrfprtinstmkntwrkcnnctd",
+                    "tags": "",
+                    "title": "Number of operations to make network connected",
+                    "yt_link": "https://youtu.be/FYrl7iz9_ZU",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/number-of-operations-to-make-graph-connected._1385179?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/number-of-operations-to-make-network-connected/"
+                },
+                {
+                    "id": "mststnsrmvdwithsmrwsrclmns",
+                    "tags": "",
+                    "title": "Most stones removed with same rows or columns",
+                    "yt_link": "https://youtu.be/OwMNX8SPavM",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/-most-stones-removed-with-same-row-or-column_1376597?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/"
+                },
+                {
+                    "id": "ccntsmrg",
+                    "tags": "",
+                    "title": "Accounts merge",
+                    "yt_link": "https://youtu.be/FMwpt_aQOGw",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/accounts-merge_1089558?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/accounts-merge/"
+                },
+                {
+                    "id": "nmbrfislndii",
+                    "tags": "",
+                    "title": "Number of island II",
+                    "yt_link": "https://youtu.be/Rn6B-Q4SNyA",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/largest-island_840701?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/number-of-islands-ii/"
+                },
+                {
+                    "id": "mkinglrgislnd",
+                    "tags": "",
+                    "title": "Making a Large Island",
+                    "yt_link": "https://youtu.be/lgiz0Oup6gM",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/making-the-largest-island_1381282?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/making-a-large-island/"
+                },
+                {
+                    "id": "swiminrisingwtr",
+                    "tags": "",
+                    "title": "Swim in rising water",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/minimum-time_8360128?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/swim-in-rising-water/"
+                },
+                {
+                    "id": "bridgsingrph",
+                    "tags": "",
+                    "title": "Bridges in Graph",
+                    "yt_link": "https://youtu.be/qrAub5z8FeA",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/bridges-in-a-graph_893026?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/critical-connections-in-a-network/discuss/382385/find-bridges-in-a-graph"
+                },
+                {
+                    "id": "rticltinpint",
+                    "tags": "",
+                    "title": "Articulation Point",
+                    "yt_link": "https://youtu.be/j1QDfU21iZk",
+                    "p1_link": " https://www.codingninjas.com/codestudio/problems/articulation-point_840708?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "ksrjslgrithm",
+                    "tags": "",
+                    "title": "Kosaraju's Algorithm",
+                    "yt_link": "https://youtu.be/R6uoSjZ2imo",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/count-strongly-connected-components-(kosaraju’s-algorithm)_1171151?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                }
+            ]
+        },
+        {
+            "sl_no": 12,
+            "title": "Dynamic Programming [Patterns and Problems]",
+            "ques": [
+                {
+                    "id": "dynmicprgrmmingintrdctin",
+                    "tags": "",
+                    "title": "Dynamic Programming Introduction",
+                    "yt_link": "https://youtu.be/tyB0ztf0DNY",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/nth-fibonacci-number_74156?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "climbingstrs",
+                    "tags": "",
+                    "title": "Climbing Stars",
+                    "yt_link": "https://youtu.be/mLfjzJsN8us",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/count-ways-to-reach-the-n-th-stairs_798650?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/climbing-stairs/"
+                },
+                {
+                    "id": "frgjmpdp3",
+                    "tags": "",
+                    "title": "Frog Jump(DP-3)",
+                    "yt_link": "https://www.youtube.com/watch?v=EgG3jsGoPvQ",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/frog-jump_3621012?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "frgjmpwithkdistncsdp4",
+                    "tags": "",
+                    "title": "Frog Jump with k distances(DP-4)",
+                    "yt_link": "https://www.youtube.com/watch?v=Kmh3rhyEtB8",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/minimal-cost_8180930?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "mximmsmfnndjcntlmntsdp5",
+                    "tags": "",
+                    "title": "Maximum sum of non-adjacent elements (DP 5)",
+                    "yt_link": "https://www.youtube.com/watch?v=GrMBfJNk_NY",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/maximum-sum-of-non-adjacent-elements_843261?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "hsrbbrdp6",
+                    "tags": "",
+                    "title": "House Robber (DP 6)",
+                    "yt_link": "https://www.youtube.com/watch?v=3WaxQMELSkw",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/house-robber-ii_839733?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "ninjstriningdp7",
+                    "tags": "",
+                    "title": "Ninja's Training (DP 7)",
+                    "yt_link": "https://www.youtube.com/watch?v=AE39gJYuRog",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/ninja’s-training_3621003?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "gridniqpthsdpngridsdp8",
+                    "tags": "",
+                    "title": "Grid Unique Paths : DP on Grids (DP8)",
+                    "yt_link": "https://www.youtube.com/watch?v=sdE0A2Oxofw",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/unique-paths_1081470?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/unique-paths/"
+                },
+                {
+                    "id": "gridniqpths2dp9",
+                    "tags": "",
+                    "title": "Grid Unique Paths 2 (DP 9)",
+                    "yt_link": "https://www.youtube.com/watch?v=TmhpgXScLyY",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/unique-paths-ii_977241?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/unique-paths-ii/"
+                },
+                {
+                    "id": "minimmpthsmingriddp10",
+                    "tags": "",
+                    "title": "Minimum path sum in Grid (DP 10)",
+                    "yt_link": "https://www.youtube.com/watch?v=_rgTlyky1uQ",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/minimum-path-sum_985349?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/minimum-path-sum/"
+                },
+                {
+                    "id": "minimmpthsmintringlrgriddp11",
+                    "tags": "",
+                    "title": "Minimum path sum in Triangular Grid (DP 11)",
+                    "yt_link": "https://www.youtube.com/watch?v=SrP-PiLSYC0",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/triangle_1229398?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/triangle/"
+                },
+                {
+                    "id": "minimmmximmfllingpthsmdp12",
+                    "tags": "",
+                    "title": "Minimum/Maximum Falling Path Sum (DP-12)",
+                    "yt_link": "https://www.youtube.com/watch?v=N_aJ5qQbYA0",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/maximum-path-sum-in-the-matrix_797998?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/minimum-falling-path-sum/"
+                },
+                {
+                    "id": "3ddpninjndhisfrindsdp13",
+                    "tags": "",
+                    "title": "3-d DP : Ninja and his friends (DP-13)",
+                    "yt_link": "https://www.youtube.com/watch?v=QGfn7JeXK54",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/chocolate-pickup_3125885?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "sbstsmqlttrgtdp14",
+                    "tags": "",
+                    "title": "Subset sum equal to target (DP- 14)",
+                    "yt_link": "https://www.youtube.com/watch?v=fWX9xDmIzRI",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/subset-sum-equal-to-k_1550954?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "prtitinqlsbstsmdp15",
+                    "tags": "",
+                    "title": "Partition Equal Subset Sum (DP- 15)",
+                    "yt_link": "https://www.youtube.com/watch?v=7win3dcgo3k",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/partition-equal-subset-sum-_892980?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/partition-equal-subset-sum/"
+                },
+                {
+                    "id": "prtitinstint2sbstswithminbsltsmdiffdp16",
+                    "tags": "",
+                    "title": "Partition Set Into 2 Subsets With Min Absolute Sum Diff (DP- 16)",
+                    "yt_link": "https://www.youtube.com/watch?v=GS_OqZb2CWc",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/partition-a-set-into-two-subsets-such-that-the-difference-of-subset-sums-is-minimum._842494?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/"
+                },
+                {
+                    "id": "cntsbstswithsmkdp17",
+                    "tags": "",
+                    "title": "Count Subsets with Sum K (DP - 17)",
+                    "yt_link": "https://www.youtube.com/watch?v=ZHyb-A2Mte4",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/count-subsets-with-sum-k_3952532?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "cntprtitinswithgivndiffrncdp18",
+                    "tags": "",
+                    "title": "Count Partitions with Given Difference (DP - 18)",
+                    "yt_link": "https://www.youtube.com/watch?v=zoilQD1kYSg",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/partitions-with-given-difference_3751628?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "01knpsckdp19",
+                    "tags": "",
+                    "title": "0/1 Knapsack (DP - 19)",
+                    "yt_link": "https://www.youtube.com/watch?v=GqOmJHQZivw",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/0-1-knapsack_920542?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "minimmcinsdp20",
+                    "tags": "",
+                    "title": "Minimum Coins (DP - 20)",
+                    "yt_link": "https://www.youtube.com/watch?v=myPeWb3Y68A",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/minimum-elements_3843091?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/coin-change/"
+                },
+                {
+                    "id": "trgtsmdp21",
+                    "tags": "",
+                    "title": "Target Sum (DP - 21)",
+                    "yt_link": "https://www.youtube.com/watch?v=b3GD8263-PQ",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/target-sum_4127362?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/target-sum/"
+                },
+                {
+                    "id": "cinchng2dp22",
+                    "tags": "",
+                    "title": "Coin Change 2 (DP - 22)",
+                    "yt_link": "https://www.youtube.com/watch?v=HgyouUi11zk",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/ways-to-make-coin-change_630471?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/coin-change-2/"
+                },
+                {
+                    "id": "nbnddknpsckdp23",
+                    "tags": "",
+                    "title": "Unbounded Knapsack (DP - 23)",
+                    "yt_link": "https://youtu.be/OgvOZ6OrJoY",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/unbounded-knapsack_1215029?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "rdcttingprblmdp24",
+                    "tags": "",
+                    "title": "Rod Cutting Problem | (DP - 24)",
+                    "yt_link": "https://youtu.be/mO8XpGoJwuo",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/rod-cutting-problem_800284?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "lngstcmmnsbsqncdp25",
+                    "tags": "",
+                    "title": "Longest Common Subsequence | (DP - 25)",
+                    "yt_link": "https://youtu.be/NPZn9jBrX8U",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/longest-common-subsequence_624879?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/longest-common-subsequence/"
+                },
+                {
+                    "id": "printlngstcmmnsbsqncdp26",
+                    "tags": "",
+                    "title": "Print Longest Common Subsequence | (DP - 26)",
+                    "yt_link": "https://youtu.be/-zI4mrF2Pb4",
+                    "p1_link": "https://www.codingninjas.com/codestudio/problems/print-longest-common-subsequence_8416383?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "lngstcmmnsbstringdp27",
+                    "tags": "",
+                    "title": "Longest Common Substring | (DP - 27)",
+                    "yt_link": "https://youtu.be/_wP9mWNPL5w",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/longest-common-substring_1235207?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "lngstplindrmicsbsqncdp28",
+                    "tags": "",
+                    "title": "Longest Palindromic Subsequence | (DP-28)",
+                    "yt_link": "https://youtu.be/6i_T5kkfv4A",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/longest-palindromic-subsequence_842787?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/longest-palindromic-subsequence/"
+                },
+                {
+                    "id": "minimminsrtinstmkstringplindrmdp29",
+                    "tags": "",
+                    "title": "Minimum insertions to make string palindrome | DP-29",
+                    "yt_link": "https://www.youtube.com/watch?v=xPBLEj41rFU",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/minimum-insertions-to-make-a-string-palindrome_985293?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/"
+                },
+                {
+                    "id": "minimminsrtinsdltinstcnvrtstringdp30",
+                    "tags": "",
+                    "title": "Minimum Insertions/Deletions to Convert String | (DP- 30)",
+                    "yt_link": "https://www.youtube.com/watch?v=yMnH0jrir0Q",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/minimum-number-of-deletions-and-insertions_4244510?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/delete-operation-for-two-strings/"
+                },
+                {
+                    "id": "shrtstcmmnsprsqncdp31",
+                    "tags": "",
+                    "title": "Shortest Common Supersequence | (DP - 31)",
+                    "yt_link": "https://youtu.be/xElxAuBcvsU",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/shortest-common-supersequence_4244493?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/shortest-common-supersequence/"
+                },
+                {
+                    "id": "distinctsbsqncsdp32",
+                    "tags": "",
+                    "title": "Distinct Subsequences| (DP-32)",
+                    "yt_link": "https://youtu.be/nVG7eTiD2bY",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/subsequence-counting_3755256?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/distinct-subsequences/"
+                },
+                {
+                    "id": "ditdistncdp33",
+                    "tags": "",
+                    "title": "Edit Distance | (DP-33)",
+                    "yt_link": "https://youtu.be/fJaKO8FbDdo",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/shortest-common-supersequence_4244493?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/edit-distance/"
+                },
+                {
+                    "id": "wildcrdmtchingdp34",
+                    "tags": "",
+                    "title": "Wildcard Matching | (DP-34)",
+                    "yt_link": "https://youtu.be/ZmlQ3vgAOMo",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/wildcard-pattern-matching_701650?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/wildcard-matching/"
+                },
+                {
+                    "id": "bsttimtbyndsllstckdp35",
+                    "tags": "",
+                    "title": "Best Time to Buy and Sell Stock |(DP-35)",
+                    "yt_link": "https://youtu.be/excAOvwF_Wk",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/best-time-to-buy-and-sell-stock_893405?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/"
+                },
+                {
+                    "id": "byndsllstckiidp36",
+                    "tags": "",
+                    "title": "Buy and Sell Stock - II|(DP-36)",
+                    "yt_link": "https://youtu.be/nGJmxkUJQGs",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/best-time-to-buy-and-sell-stock-ii_630282?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/"
+                },
+                {
+                    "id": "byndsllstcksiiidp37",
+                    "tags": "",
+                    "title": "Buy and Sell Stocks III|(DP-37)",
+                    "yt_link": "https://youtu.be/-uQGzhYj8BQ",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/best-time-to-buy-and-sell-stock-iii_1071012?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/"
+                },
+                {
+                    "id": "byndstcksllivdp38",
+                    "tags": "",
+                    "title": "Buy and Stock Sell IV |(DP-38)",
+                    "yt_link": "https://youtu.be/IV1dHbk5CDc",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/best-time-to-buy-and-sell-stock-iv_1080698?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/"
+                },
+                {
+                    "id": "byndsllstckswithcldwndp39",
+                    "tags": "",
+                    "title": "Buy and Sell Stocks With Cooldown|(DP-39)",
+                    "yt_link": "https://youtu.be/IGIe46xw3YY",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/best-time-to-buy-and-sell-stock-with-cooldown_3125969?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/"
+                },
+                {
+                    "id": "byndsllstckswithtrnsctinfdp40",
+                    "tags": "",
+                    "title": "Buy and Sell Stocks With Transaction Fee|(DP-40)",
+                    "yt_link": "https://youtu.be/k4eK-vEmnKg",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/best-time-to-buy-and-sell-stock-with-transaction-fee_3118974?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/"
+                },
+                {
+                    "id": "lngstincrsingsbsqncdp41",
+                    "tags": "",
+                    "title": "Longest Increasing Subsequence |(DP-41)",
+                    "yt_link": "https://youtu.be/ekcwMsSIzVc",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/longest-increasing-subsequence_630459?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/longest-increasing-subsequence/"
+                },
+                {
+                    "id": "printinglngstincrsingsbsqncdp42",
+                    "tags": "",
+                    "title": "Printing Longest Increasing Subsequence|(DP-42)",
+                    "yt_link": "https://youtu.be/IFfYfonAFGc",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/printing-longest-increasing-subsequence_8360670?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "lngstincrsingsbsqncdp43",
+                    "tags": "",
+                    "title": "Longest Increasing Subsequence |(DP-43)",
+                    "yt_link": "https://youtu.be/on2hvxBXJH4",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/longest-increasing-subsequence_630459?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "lrgstdivisiblsbstdp44",
+                    "tags": "",
+                    "title": "Largest Divisible Subset|(DP-44)",
+                    "yt_link": "https://youtu.be/gDuZwBW9VvM",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/divisible-set_3754960?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/largest-divisible-subset/"
+                },
+                {
+                    "id": "lngststringchindp45",
+                    "tags": "",
+                    "title": "Longest String Chain|(DP-45)",
+                    "yt_link": "https://youtu.be/YY8iBaYcc4g",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/longest-string-chain_3752111?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/longest-string-chain/"
+                },
+                {
+                    "id": "lngstbitnicsbsqncdp46",
+                    "tags": "",
+                    "title": "Longest Bitonic Subsequence |(DP-46)",
+                    "yt_link": "https://youtu.be/y4vN0WNdrlg",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/longest-bitonic-sequence_1062688?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "nmbrflngstincrsingsbsqncsdp47",
+                    "tags": "",
+                    "title": "Number of Longest Increasing Subsequences|(DP-47)",
+                    "yt_link": "https://youtu.be/cKVl1TFdNXg",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/number-of-longest-increasing-subsequence_3751627?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/number-of-longest-increasing-subsequence/"
+                },
+                {
+                    "id": "mtrixchinmltiplictindp48",
+                    "tags": "",
+                    "title": "Matrix Chain Multiplication|(DP-48)",
+                    "yt_link": "https://youtu.be/vRVfmbCFW7Y",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/matrix-chain-multiplication_624880?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "mtrixchinmltiplictinbttmpdp49",
+                    "tags": "",
+                    "title": "Matrix Chain Multiplication | Bottom-Up|(DP-49)",
+                    "yt_link": "https://youtu.be/pDCXsbAw5Cg",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/matrix-chain-multiplication_624880?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "minimmcsttctthstickdp50",
+                    "tags": "",
+                    "title": "Minimum Cost to Cut the Stick|(DP-50)",
+                    "yt_link": "https://youtu.be/xwomavsC86c",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/rod-cutting-problem_800284?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/minimum-cost-to-cut-a-stick/"
+                },
+                {
+                    "id": "brstbllnsdp51",
+                    "tags": "",
+                    "title": "Burst Balloons|(DP-51)",
+                    "yt_link": "https://youtu.be/Yz4LlDSlkns",
+                    "p1_link": "https://www.codingninjas.com/codestudio/problems/burst-balloons_628471?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/burst-balloons/"
+                },
+                {
+                    "id": "vltblnxprssinttrdp52",
+                    "tags": "",
+                    "title": "Evaluate Boolean Expression to True|(DP-52)",
+                    "yt_link": "https://youtu.be/MM7fXopgyjw",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/boolean-evaluation_1214650?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/parsing-a-boolean-expression/"
+                },
+                {
+                    "id": "plindrmprtitiningiidp53",
+                    "tags": "",
+                    "title": "Palindrome Partitioning - II|(DP-53)",
+                    "yt_link": "https://youtu.be/_H8V5hJUGd0",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/palindrome-partitioning-ll_873266?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/palindrome-partitioning-ii/"
+                },
+                {
+                    "id": "prtitinrryfrmximmsmdp54",
+                    "tags": "",
+                    "title": "Partition Array for Maximum Sum|(DP-54)",
+                    "yt_link": "https://youtu.be/PhWWJmaKfMc",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/partition-array-for-maximum-sum_3755255?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/partition-array-for-maximum-sum/"
+                },
+                {
+                    "id": "mximmrctnglrwithll1sdp55",
+                    "tags": "",
+                    "title": "Maximum Rectangle Area with all 1's|(DP-55)",
+                    "yt_link": "https://youtu.be/tOylVCugy9k",
+                    "p1_link": null,
+                    "p2_link": "https://leetcode.com/problems/maximal-rectangle/"
+                },
+                {
+                    "id": "cntsqrsbmtricswithllnsdp56",
+                    "tags": "",
+                    "title": "Count Square Submatrices with All Ones|(DP-56)",
+                    "yt_link": "https://youtu.be/auS1fynpnjo",
+                    "p1_link": null,
+                    "p2_link": "https://leetcode.com/problems/count-square-submatrices-with-all-ones/"
+                }
+            ]
+        },
+        {
+            "sl_no": 13,
+            "title": "Tries",
+            "ques": [
+                {
+                    "id": "implmnttriinsrtsrchstrtswith",
+                    "tags": "",
+                    "title": "Implement TRIE | INSERT | SEARCH | STARTSWITH",
+                    "yt_link": "https://www.youtube.com/watch?v=dBGUmUQhjaM&list=PLgUwDviBIf0pcIDCZnxhv0LkHf5KzG9zp",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/trie-implementation_1062581?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/implement-trie-prefix-tree/"
+                },
+                {
+                    "id": "implmnttri2prfixtr",
+                    "tags": "",
+                    "title": "Implement Trie - 2 (Prefix Tree)",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/trie-delete-operation_1062663?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://bit.ly/3qwT4OL"
+                },
+                {
+                    "id": "lngststringwithllprfixs",
+                    "tags": "",
+                    "title": "Longest String with All Prefixes",
+                    "yt_link": "https://www.youtube.com/watch?v=AWnBa91lThI&list=PLgUwDviBIf0pcIDCZnxhv0LkHf5KzG9zp&index=3",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/longest-common-prefix_2090383?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://bit.ly/3n3kedU"
+                },
+                {
+                    "id": "nmbrfdistinctsbstringsinstring",
+                    "tags": "",
+                    "title": "Number of Distinct Substrings in a String",
+                    "yt_link": "https://www.youtube.com/watch?v=RV0QeTyHZxo&list=PLgUwDviBIf0pcIDCZnxhv0LkHf5KzG9zp&index=4",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/count-distinct-substrings_985292?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://bit.ly/3ocRQW0"
+                },
+                {
+                    "id": "bitprrqisitsfrtriprblms",
+                    "tags": "",
+                    "title": "Bit PreRequisites for TRIE Problems",
+                    "yt_link": "https://youtu.be/5iyuU4hQFrw",
+                    "p1_link": " https://www.codingninjas.com/codestudio/problems/bitwise-basic-operations_8382552?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "mximmxrftwnmbrsinnrry",
+                    "tags": "",
+                    "title": "Maximum XOR of two numbers in an array",
+                    "yt_link": "https://www.youtube.com/watch?v=EIhAwfHubE8&list=PLgUwDviBIf0pcIDCZnxhv0LkHf5KzG9zp&index=6",
+                    "p1_link": "https://www.codingninjas.com/codestudio/problems/maximum-xor_3119012?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/"
+                },
+                {
+                    "id": "mximmxrwithnlmntfrmrry",
+                    "tags": "",
+                    "title": "Maximum XOR With an Element From Array",
+                    "yt_link": "https://www.youtube.com/watch?v=Q8LhG9Pi5KM&list=PLgUwDviBIf0pcIDCZnxhv0LkHf5KzG9zp&index=7",
+                    "p1_link": "https://www.codingninjas.com/studio/problems/maximum-xor-with-an-element-from-array_1382020?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/maximum-xor-with-an-element-from-array/"
+                }
+            ]
+        },
+        {
+            "sl_no": 14,
+            "title": "Strings",
+            "ques": [
+                {
+                    "id": "minimmnmbrfbrcktrvrslsnddtmknxprssinblncd",
+                    "tags": "",
+                    "title": "Minimum number of bracket reversals needed to make an expression balanced",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/minimum-cost-to-make-string-valid_1115770?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/"
+                },
+                {
+                    "id": "cntndsy",
+                    "tags": "",
+                    "title": "Count and say",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/look-and-say-sequence_668478?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/count-and-say/"
+                },
+                {
+                    "id": "hshinginstringsthry",
+                    "tags": "",
+                    "title": "Hashing In Strings | Theory",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/codestudio/problems/first-occurence-of-a-pattern-in-a-text_8416393?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                },
+                {
+                    "id": "rbinkrp",
+                    "tags": "",
+                    "title": "Rabin Karp",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/codestudio/problems/stringmatch-rabincarp_1115738?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/repeated-string-match/discuss/416144/Rabin-Karp-algorithm-C%2B%2B-implementation"
+                },
+                {
+                    "id": "zfnctin",
+                    "tags": "",
+                    "title": "Z-Function",
+                    "yt_link": null,
+                    "p1_link": " https://www.codingninjas.com/codestudio/problems/pattern-searching-using-z-algorithm_8395752?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/implement-strstr/"
+                },
+                {
+                    "id": "kmplglpspirry",
+                    "tags": "",
+                    "title": "KMP algo / LPS(pi) array",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/codestudio/problems/search-pattern-kmp-algorithm_8416386?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/implement-strstr/"
+                },
+                {
+                    "id": "shrtstplindrm",
+                    "tags": "",
+                    "title": "Shortest Palindrome",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/minimum-characters-for-palindrome_893000?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/shortest-palindrome/"
+                },
+                {
+                    "id": "lngsthppyprfix",
+                    "tags": "",
+                    "title": "Longest happy prefix",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/longest-prefix-which-is-suffix_3146849?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": "https://leetcode.com/problems/longest-happy-prefix/"
+                },
+                {
+                    "id": "cntplindrmicsbsqncingivnstring",
+                    "tags": "",
+                    "title": "Count palindromic subsequence in given string",
+                    "yt_link": null,
+                    "p1_link": "https://www.codingninjas.com/studio/problems/count-palindromic-subsequences_1062696?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+                    "p2_link": null
+                }
+            ]
+        }
+    ]
+}

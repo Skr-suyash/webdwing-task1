@@ -1,0 +1,54 @@
+import axios from 'axios';
+import { createContext, useContext, useEffect, useState } from 'react';
+
+const AuthContext = createContext();
+
+export const AuthProvider = ({ children }) => {
+    const [user, setUser] = useState(null);
+    useEffect(() => {
+        const token = localStorage.getItem('token');
+        if (token) {
+            fetchUserProfile(token);
+        }
+        
+    }, []);
+
+    const fetchUserProfile = (async (token) => {
+        try {
+            const response = await axios.get('http://localhost:3000/auth/profile', {
+                headers: {
+                    Authorization: `Bearer ${token}`,
+                },
+            });
+            if (response.status === 200) {
+                const userData = response.data;
+                setUser(userData);
+            } else if (response.status === 401) {
+                console.log('Unauthorized access');
+                logout();
+            } else {
+                console.error('Failed to fetch user profile');
+            }
+        } catch (err) {
+            console.error('Error fetching user profile:', err);
+        }
+    });
+
+    const login = (token) => {
+        localStorage.setItem('token', token);
+        fetchUserProfile(token);
+    }
+
+    const logout = () => {
+        localStorage.removeItem('token');
+        setUser(null);
+    }
+
+    return (
+        <AuthContext.Provider value={{user, login, logout}}>
+            {children} 
+        </AuthContext.Provider>
+    );
+}
+
+export const useAuth = () => { return useContext(AuthContext); }
