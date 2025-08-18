@@ -4,6 +4,7 @@ import './Home.css';
 import CategoryCard from "../../components/CategoryCard/CategoryCard";
 import axios from "axios";
 import Navbar from "../../components/Navbar/Navbar";
+import { toast, ToastContainer } from "react-toastify";
 
 function Home() {
   const [questions, setQuestions] = useState([]);
@@ -18,8 +19,9 @@ function Home() {
           throw new Error("Something went wrong while fetching questions");
         }
         console.log(res);
-        setQuestions(res.data || []);
+        setQuestions(res.data);
       } catch (err) {
+        toast.error(err);
         setError(err);
       } finally {
         setLoading(false);
@@ -30,10 +32,11 @@ function Home() {
   return (
     <div className="home-container">
       <Navbar page="home"/>
+      <ToastContainer />
       <div className="home-header">
         <h1 className="home-hero">Questions</h1>
         {loading && <p>Loading...</p>}
-        {error && <p>Error: {error.message || error.toString()}</p>}
+        {error && <p>Error: {error.toString} </p>}
         <div>
           {questions.map((category, index) => (
             <CategoryCard index={index} category={category} key={category._id} />

@@ -13,6 +13,7 @@ export const AuthProvider = ({ children }) => {
         
     }, []);
 
+    // if token valid fetch user profile for global context
     const fetchUserProfile = (async (token) => {
         try {
             const response = await axios.get('http://localhost:3000/auth/profile', {
@@ -20,10 +21,11 @@ export const AuthProvider = ({ children }) => {
                     Authorization: `Bearer ${token}`,
                 },
             });
-            if (response.status === 200) {
+            // constantly keep checking if the jwt has not expired
+            if (response.status == 200) {
                 const userData = response.data;
                 setUser(userData);
-            } else if (response.status === 401) {
+            } else if (response.status == 401) {
                 console.log('Unauthorized access');
                 logout();
             } else {
@@ -45,6 +47,7 @@ export const AuthProvider = ({ children }) => {
     }
 
     return (
+        // store global auth context
         <AuthContext.Provider value={{user, login, logout}}>
             {children} 
         </AuthContext.Provider>

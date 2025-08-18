@@ -11,7 +11,7 @@ router.get('/:user/bookmarks', verifyToken, async (req, res) => {
 
     // check if the accessing user is the same as the requested user
     if (req.user.id !== userId) {
-        return res.status(403).json({ error: 'Forbidden: You are not authorized to view these bookmarks.' });
+        return res.status(403).json({ error: 'Forbidden: You are not allowed to view this.' });
     }
 
     try {
@@ -42,6 +42,7 @@ router.post('/:user/bookmarks', verifyToken, async (req, res) => {
         if (!question) {
             return res.status(404).json({ error: 'Question not found!' });
         }
+        // only add unique
         await user.updateOne({ $addToSet: { bookmarks: questionId } });
         res.status(200).send('Question bookmarked successfully');
     } catch (err) {
@@ -50,6 +51,10 @@ router.post('/:user/bookmarks', verifyToken, async (req, res) => {
     }
 });
 
+
+/**
+ * TODO: Implement questions with completed status for logged in
+ */
 router.get('/questions', verifyToken, async (req, res) => {
     try {
         const userId = req.user.id;

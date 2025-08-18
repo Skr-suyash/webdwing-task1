@@ -22,29 +22,12 @@ async function postBookmark(userId, questionId) {
     }
 }
 
-async function postCompleted(userId, questionId, completed) {
-    const url = `http://localhost:3000/user/${userId}/completed`;
-    const response = await axios.post(url, {
-        questionId: questionId,
-    }, {
-        headers: {
-            'Authorization': `Bearer ${localStorage.getItem('token')}`,
-        }
-    });
-    console.log(response);
-    if (response.status === 200) {
-        
-    } else {
-        toast.error('Failed to update status.');
-    }
-}
-
 function QuestionCard({ question, showBookmark = true }) {
     const { user } = useAuth();
     return (
         <div className="question-card">
             <ToastContainer />
-            <div className="question-info">
+            <div className="question-info">            
                 <h2 className="question-title">{question.title}</h2>
                 <p className="question-difficulty">
                     <span className="label">Difficulty:</span>{" "}

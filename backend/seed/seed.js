@@ -15,9 +15,11 @@ async function seed() {
     const rawData = fs.readFileSync('./seed/data.json', 'utf8');
     const jsonData = JSON.parse(rawData);
 
+    // delete all prev
     await Question.deleteMany({});
     await Category.deleteMany({});
 
+    // set deault difficulty easy for q
     for (const categoryData of jsonData.data) {
       const questionsToInsert = categoryData.ques.map(q => ({
         title: q.title,

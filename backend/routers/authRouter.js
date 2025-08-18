@@ -51,6 +51,9 @@ router.post('/login', async (req, res) => {
     });
 });
 
+/**
+ * To get username and email for profile anytime
+ */
 router.get('/profile', verifyToken, async (req, res) => {
     console.log(req);
     

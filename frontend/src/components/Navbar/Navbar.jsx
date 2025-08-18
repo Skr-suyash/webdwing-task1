@@ -1,13 +1,13 @@
 import { useState, useEffect, useRef } from "react";
-import { useAuth } from "../../auth/AuthProvider"; // Assuming this path is correct
+import { useAuth } from "../../auth/AuthProvider";
 import "./Navbar.css";
 
 export default function Navbar({ page }) {
   const { user, logout } = useAuth();
   const [isMenuOpen, setIsMenuOpen] = useState(false);
-  const dropdownRef = useRef(null); // Create a ref for the dropdown
+  // ref for directkly accessing the dropdown element
+  const dropdownRef = useRef(null);
 
-  // --- Responsive hamburger menu logic ---
   useEffect(() => {
     const handleResize = () => {
       if (window.innerWidth > 768) {
@@ -34,7 +34,7 @@ export default function Navbar({ page }) {
     return () => {
       document.removeEventListener("mousedown", handleClickOutside);
     };
-  }, []); // Empty dependency array means this effect runs only once
+  }, []);
 
   const toggleMenu = () => {
     setIsMenuOpen((prev) => !prev);
@@ -78,13 +78,12 @@ export default function Navbar({ page }) {
         </ul>
       </nav>
 
-      {/* --- User Authentication Section --- */}
+      {/* --- User Auth --- */}
       <div className="auth-section">
         {user ? (
           <div className="dropdown-container">
             <details className="dropdown right" ref={dropdownRef}>
               <summary className="avatar">
-                {/* Using a placeholder avatar, you can replace src with user.avatarUrl */}
                 <img
                   src="https://gravatar.com/avatar/00000000000000000000000000000000?d=mp"
                   alt="User avatar"

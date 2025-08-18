@@ -3,9 +3,11 @@ import QuestionCard from '../../components/QuestionCard/QuestionCard';
 import axios from 'axios';
 import { useAuth } from '../../auth/AuthProvider';
 import Navbar from '../../components/Navbar/Navbar';
+import { redirect, useNavigate } from 'react-router-dom';
 
 function DashboardPage() {
 
+    const navigate = useNavigate();
     const { user } = useAuth();
     const [bookmarks, setBookmarks] = useState([]);
     const [error, setError] = useState(null);
@@ -41,6 +43,7 @@ function DashboardPage() {
             setError(null);
         }
         else {
+            navigate('/login');
             setError('User not authenticated');
         }
     }, [user]);
