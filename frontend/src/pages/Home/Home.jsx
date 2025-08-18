@@ -36,7 +36,7 @@ function Home() {
       <div className="home-header">
         <h1 className="home-hero">Questions</h1>
         {loading && <p>Loading...</p>}
-        {error && <p>Error: {error.toString} </p>}
+        {error && <p>Error: {error.toString()} </p>}
         <div>
           {questions.map((category, index) => (
             <CategoryCard index={index} category={category} key={category._id} />

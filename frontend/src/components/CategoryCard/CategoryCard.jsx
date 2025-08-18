@@ -18,6 +18,7 @@ const CategoryCard = ({ category, index }) => {
         <span className={`dropdown-icon ${open ? "rotate" : ""}`}>&#9662;</span>
       </div>
 
+      {/* Display when the toggle state is true */}
       {open && (
         <ul className="question-list">
           {questions.map((q) => (
