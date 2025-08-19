@@ -5,8 +5,10 @@ import bookmarkLogo from '../../assets/bookmark.png';
 import axios from 'axios';
 import { toast, ToastContainer } from 'react-toastify';
 
+const apiUrl = import.meta.env.VITE_API_URL;
+
 async function postBookmark(userId, questionId) {
-    const url = `http://localhost:3000/user/${userId}/bookmarks`;
+    const url = `${apiUrl}/user/${userId}/bookmarks`;
     const response = await axios.post(url, {
         questionId: questionId,
     }, {

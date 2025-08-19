@@ -7,6 +7,8 @@ import axios from "axios";
 import { useNavigate } from "react-router-dom";
 import Navbar from "../../components/Navbar/Navbar";
 
+const apiUrl = import.meta.env.VITE_API_URL;
+
 function LoginPage() {
     const navigate = useNavigate();
     const { login } = useAuth();
@@ -20,7 +22,7 @@ function LoginPage() {
         setError(null);
 
         try {
-            const url = "http://localhost:3000/auth/login";
+            const url = `${apiUrl}/auth/login`;
             const response = await axios.post(url, {
                 email: email,
                 password: password,

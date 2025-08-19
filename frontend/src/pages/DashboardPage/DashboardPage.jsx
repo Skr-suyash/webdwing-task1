@@ -5,6 +5,8 @@ import { useAuth } from '../../auth/AuthProvider';
 import Navbar from '../../components/Navbar/Navbar';
 import { redirect, useNavigate } from 'react-router-dom';
 
+const apiUrl = import.meta.env.VITE_API_URL;
+
 function DashboardPage() {
 
     const navigate = useNavigate();
@@ -14,7 +16,7 @@ function DashboardPage() {
 
     const fetchBookmarks = async () => {
         try {
-            const url = `http://localhost:3000/user/${user.id}/bookmarks`;
+            const url = `${apiUrl}/user/${user.id}/bookmarks`;
             
             const response = await axios.get(url, {
                 headers: {
@@ -43,7 +45,6 @@ function DashboardPage() {
             setError(null);
         }
         else {
-            navigate('/login');
             setError('User not authenticated');
         }
     }, [user]);

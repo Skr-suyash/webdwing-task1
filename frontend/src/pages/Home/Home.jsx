@@ -6,6 +6,8 @@ import axios from "axios";
 import Navbar from "../../components/Navbar/Navbar";
 import { toast, ToastContainer } from "react-toastify";
 
+const apiUrl = import.meta.env.VITE_API_URL;
+
 function Home() {
   const [questions, setQuestions] = useState([]);
   const [loading, setLoading] = useState(true);
@@ -14,7 +16,7 @@ function Home() {
   useEffect(() => {
     const fetch = async () => {
       try {
-        const res = await axios.get("http://localhost:3000/categories");
+        const res = await axios.get(`${apiUrl}/categories`);
         if (res.status !== 200) {
           throw new Error("Something went wrong while fetching questions");
         }

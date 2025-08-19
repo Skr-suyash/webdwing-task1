@@ -5,6 +5,8 @@ import { toast, ToastContainer } from 'react-toastify';
 import '../LoginPage/LoginPage.css';
 import Navbar from '../../components/Navbar/Navbar';
 
+const apiUrl = import.meta.env.VITE_API_URL;
+
 function RegisterPage() {
     const navigate = useNavigate();
 
@@ -17,7 +19,7 @@ function RegisterPage() {
         e.preventDefault();
         setError(null);
 
-        const url = 'http://localhost:3000/auth/register';
+        const url = `${apiUrl}/auth/register`;
         const formData = {
             name: name,
             email: email,
